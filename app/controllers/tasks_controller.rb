@@ -4,8 +4,10 @@ class TasksController < ApplicationController
   # GET /tasks
   def index
     @tasks = Task.all
-    @tasks = @tasks.where("title LIKE ?", "%#{params[:search]}%") if params[:search].present?
-    @tasks = @tasks.order(created_at: :desc)
+    @tasks = @tasks.search_by_title(params[:search]) if params[:search].present?
+    @tasks = @tasks.recent
+    @search_query = params[:search]
+    @tasks_count = @tasks.count
   end
 
   # GET /tasks/1
@@ -44,7 +46,7 @@ class TasksController < ApplicationController
   # DELETE /tasks/1
   def destroy
     @task.destroy
-    redirect_to tasks_url, notice: "Task was successfully destroyed."
+    redirect_to tasks_url, notice: "Task was successfully deleted."
   end
 
   private
