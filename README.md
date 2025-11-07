@@ -94,6 +94,7 @@ The SQLite database is stored in `storage/development.sqlite3` (local) or in a D
 ## Documentation
 
 For detailed information about:
+- **Visual application walkthrough with screenshots** → See [`docs/walkthrough.md`](docs/walkthrough.md)
 - **Project planning and architecture decisions** → See [`docs/project-plan.md`](docs/project-plan.md)
 - **Implementation timeline and deep-dive notes** → See [`docs/deep-dive.md`](docs/deep-dive.md)
 
