@@ -3,15 +3,15 @@ require_relative "boot"
 require "rails"
 # Pick the frameworks you want:
 require "active_model/railtie"
-require "active_job/railtie"
+# require "active_job/railtie"  # Not used - no background jobs
 require "active_record/railtie"
-require "active_storage/engine"
+# require "active_storage/engine"  # Not used - no file uploads
 require "action_controller/railtie"
-require "action_mailer/railtie"
-require "action_mailbox/engine"
-require "action_text/engine"
+# require "action_mailer/railtie"  # Not used - no emails
+# require "action_mailbox/engine"  # Not used - no email processing
+# require "action_text/engine"  # Not used - no rich text
 require "action_view/railtie"
-require "action_cable/engine"
+# require "action_cable/engine"  # Not used - no WebSockets
 # require "rails/test_unit/railtie"
 
 # Require the gems listed in Gemfile, including any gems
