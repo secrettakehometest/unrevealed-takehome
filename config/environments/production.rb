@@ -37,12 +37,12 @@ Rails.application.configure do
   # config.action_dispatch.x_sendfile_header = "X-Accel-Redirect" # for NGINX
 
   # Store uploaded files on the local file system (see config/storage.yml for options).
-  config.active_storage.service = :local
+  # config.active_storage.service = :local  # Not used - Active Storage removed
 
   # Mount Action Cable outside main process or domain.
-  # config.action_cable.mount_path = nil
-  # config.action_cable.url = "wss://example.com/cable"
-  # config.action_cable.allowed_request_origins = [ "http://example.com", /http:\/\/example.*/ ]
+  # config.action_cable.mount_path = nil  # Not used - Action Cable removed
+  # config.action_cable.url = "wss://example.com/cable"  # Not used - Action Cable removed
+  # config.action_cable.allowed_request_origins = [ "http://example.com", /http:\/\/example.*/ ]  # Not used - Action Cable removed
 
   # Assume all access to the app is happening through a SSL-terminating reverse proxy.
   # Can be used together with config.force_ssl for Strict-Transport-Security and secure cookies.
@@ -71,12 +71,12 @@ Rails.application.configure do
   # config.cache_store = :mem_cache_store
 
   # Use a real queuing backend for Active Job (and separate queues per environment).
-  # config.active_job.queue_adapter = :resque
-  # config.active_job.queue_name_prefix = "task_manager_app_production"
+  # config.active_job.queue_adapter = :resque  # Not used - Action Job removed
+  # config.active_job.queue_name_prefix = "task_manager_app_production"  # Not used - Action Job removed
 
   # Disable caching for Action Mailer templates even if Action Controller
   # caching is enabled.
-  config.action_mailer.perform_caching = false
+  # config.action_mailer.perform_caching = false  # Not used - Action Mailer removed
 
   # Ignore bad email addresses and do not raise email delivery errors.
   # Set this to true and configure the email server for immediate delivery to raise delivery errors.
