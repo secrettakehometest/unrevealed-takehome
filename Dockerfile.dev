@@ -1,0 +1,28 @@
+# Development Dockerfile for testing
+ARG RUBY_VERSION=3.2.9
+FROM ruby:$RUBY_VERSION
+
+# Install dependencies
+RUN apt-get update -qq && \
+    apt-get install --no-install-recommends -y \
+    build-essential \
+    sqlite3 \
+    libsqlite3-dev \
+    && rm -rf /var/lib/apt/lists /var/cache/apt/archives
+
+# Set working directory
+WORKDIR /app
+
+# Install gems
+COPY Gemfile Gemfile.lock ./
+RUN bundle install
+
+# Copy application code
+COPY . .
+
+# Expose port
+EXPOSE 3000
+
+# Prepare database and start server
+CMD ["sh", "-c", "rails db:prepare && rails server -b 0.0.0.0"]
+

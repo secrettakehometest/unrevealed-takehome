@@ -129,7 +129,41 @@ task-manager-takehome/
 
 ---
 
-### Phase 3: Frontend Implementation
+### Phase 3: Docker Configuration (Moved earlier for testing)
+**Estimated Time:** 10 minutes
+
+#### Tasks:
+1. **Dockerfile**
+   - Base image: `ruby:3.2`
+   - Install dependencies (build-essential, sqlite3)
+   - Copy Gemfile and install gems
+   - Copy application code
+   - Expose port 3000
+   - Run `rails db:prepare` for safe database setup (creates DB if missing, runs migrations)
+   - Run `rails server -b 0.0.0.0`
+
+2. **.dockerignore**
+   - Exclude unnecessary files (node_modules, .git, tmp, log)
+
+3. **Database Volume**
+   - Mount SQLite database file to volume
+   - Ensure data persists across container restarts
+
+4. **Docker Compose (Optional)**
+   - Single service definition
+   - Volume mapping for database
+   - Port mapping (3000:3000)
+
+**Acceptance Criteria:**
+- ✅ Docker image builds successfully
+- ✅ Container runs and app is accessible
+- ✅ Database persists in volume
+- ✅ Can rebuild without data loss
+- ✅ Can test CRUD operations in browser
+
+---
+
+### Phase 4: Frontend Implementation
 **Estimated Time:** 15 minutes
 
 #### Tasks:
@@ -167,39 +201,6 @@ task-manager-takehome/
 - ✅ Search form works and displays results
 - ✅ Status badges are color-coded
 - ✅ Forms are user-friendly
-
----
-
-### Phase 4: Docker Configuration
-**Estimated Time:** 10 minutes
-
-#### Tasks:
-1. **Dockerfile**
-   - Base image: `ruby:3.2`
-   - Install dependencies (build-essential, sqlite3)
-   - Copy Gemfile and install gems
-   - Copy application code
-   - Expose port 3000
-   - Run `rails db:prepare` for safe database setup (creates DB if missing, runs migrations)
-   - Run `rails server -b 0.0.0.0`
-
-2. **.dockerignore**
-   - Exclude unnecessary files (node_modules, .git, tmp, log)
-
-3. **Database Volume**
-   - Mount SQLite database file to volume
-   - Ensure data persists across container restarts
-
-4. **Docker Compose (Optional)**
-   - Single service definition
-   - Volume mapping for database
-   - Port mapping (3000:3000)
-
-**Acceptance Criteria:**
-- ✅ Docker image builds successfully
-- ✅ Container runs and app is accessible
-- ✅ Database persists in volume
-- ✅ Can rebuild without data loss
 
 ---
 
@@ -320,8 +321,8 @@ Before submitting:
 |-------|------|------|
 | 1 | Project Setup & Scaffolding | 10 min |
 | 2 | Backend Implementation | 15 min |
-| 3 | Frontend Implementation | 15 min |
-| 4 | Docker Configuration | 10 min |
+| 3 | Docker Configuration | 10 min |
+| 4 | Frontend Implementation | 15 min |
 | 5 | Documentation & Polish | 5 min |
 | **Total** | | **45 min** |
 
