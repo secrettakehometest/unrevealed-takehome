@@ -1,7 +1,14 @@
-<h1>Edit task</h1>
+<div class="d-flex justify-content-between align-items-center mb-4">
+  <h1>Edit Task</h1>
+  <div class="btn-group">
+    <%= link_to "Show Task", @task, class: "btn btn-outline-primary" %>
+    <%= link_to "Back to Tasks", tasks_path, class: "btn btn-outline-secondary" %>
+  </div>
+</div>
 
-<%= render "form", task: @task %>
-
-<%= link_to "Show this task", @task %> |
-<%= link_to "Back to tasks", tasks_path %>
+<div class="card">
+  <div class="card-body">
+    <%= render "form", task: @task %>
+  </div>
+</div>
 
