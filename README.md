@@ -2,6 +2,8 @@
 
 A lightweight full-stack task management application built with Ruby on Rails, demonstrating CRUD operations, search functionality, and containerization.
 
+**What is this?** This is a takehome assessment project that implements a complete task management system with full CRUD operations, server-side search, Docker containerization, and a responsive Bootstrap UI. The application was built with a focus on clean architecture, efficient development, and production-ready code quality.
+
 ## Quick Start
 
 ### Prerequisites
@@ -102,6 +104,31 @@ The application includes basic validations:
 - Status must be one of: `pending`, `in_progress`, `completed`
 - Default status is `pending` if not specified
 
+## Troubleshooting
+
+### Docker Issues
+
+**Container won't start:**
+- Ensure Docker Desktop is running
+- Check if port 3000 is already in use: `netstat -ano | findstr :3000` (Windows) or `lsof -i :3000` (Mac/Linux)
+- Try rebuilding: `docker-compose down && docker-compose up --build`
+
+**Database not persisting:**
+- Ensure Docker volumes are properly configured
+- Check `docker volume ls` to verify `task-manager-takehome_db_data` exists
+
+**App not accessible:**
+- Verify container is running: `docker-compose ps`
+- Check container logs: `docker-compose logs web`
+- Ensure firewall isn't blocking port 3000
+
+### Local Development Issues
+
+**SQLite3 gem errors (Windows):**
+- This is a known Windows compatibility issue
+- Use Docker for development instead (recommended)
+- Or install MSYS2 development tools: `ridk enable` then `pacman -S --needed base-devel mingw-w64-x86_64-toolchain`
+
 ## Notes
 
 This project was built as a takehome assessment. All core requirements have been implemented:
@@ -110,3 +137,5 @@ This project was built as a takehome assessment. All core requirements have been
 - Docker containerization
 - Responsive Bootstrap UI
 - Clean MVC architecture
+- Production-ready code (unused features removed)
+- Comprehensive testing and validation
