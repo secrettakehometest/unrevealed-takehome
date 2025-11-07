@@ -24,5 +24,5 @@ COPY . .
 EXPOSE 3000
 
 # Prepare database and start server
-CMD ["sh", "-c", "rails db:prepare && rails server -b 0.0.0.0"]
+CMD ["sh", "-c", "rm -f tmp/pids/server.pid && rails db:prepare && rails server -b 0.0.0.0"]
 
