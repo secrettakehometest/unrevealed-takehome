@@ -33,3 +33,9 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+rewrite-*.ps1
+rewrite-*.bat
+rewrite-*.sh
+.git-replace-text.txt
+.mailmap
+anonymize_authors.py

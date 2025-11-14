@@ -1352,7 +1352,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [45:02]:** we're basically at time
 
-**Them [45:08]:** so you want to ask a couple questions that kyle or i before we sign up
+**Them [45:08]:** so you want to ask a couple questions that Interviewer B or i before we sign up
 
 **Them [45:09]:** go ahead
 
@@ -1372,7 +1372,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [45:39]:** all right
 
-**Them [45:44]:** so kind of the next steps is kamau talk to stephanie
+**Them [45:44]:** so kind of the next steps is I'll talk to Recruiter
 
 **Them [45:46]:** and then she will reach back out
 
