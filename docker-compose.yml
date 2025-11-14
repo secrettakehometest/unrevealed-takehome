@@ -32,6 +32,12 @@ services:
         max-file: "3"
     stdin_open: true
     tty: true
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
 
 volumes:
   bundle_data:
