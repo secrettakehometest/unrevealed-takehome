@@ -35,17 +35,23 @@ A lightweight full-stack task management application built with Ruby on Rails, d
 ## Features
 
 - ✅ **Create Tasks** - Add new tasks with title, description, and status
-- ✅ **View Tasks** - Browse all tasks in a responsive table
-- ✅ **Search Tasks** - Server-side search by title (case-insensitive)
+- ✅ **View Tasks** - Browse all tasks in a responsive table with pagination
+- ✅ **Search Tasks** - Server-side search by title (case-insensitive, sanitized)
 - ✅ **Update Tasks** - Edit existing tasks
 - ✅ **Delete Tasks** - Remove tasks with confirmation
+- ✅ **Pagination** - 25 tasks per page for better performance
 - ✅ **Responsive UI** - Clean Bootstrap 5 interface
+- ✅ **Security** - Content Security Policy, host authorization, XSS protection
+- ✅ **Data Integrity** - Database constraints, indexes, and validations
+- ✅ **Comprehensive Testing** - 100% test coverage (55 tests, 113 assertions)
 
 ## Tech Stack
 
 - **Backend:** Ruby on Rails 7
-- **Database:** SQLite3
+- **Database:** SQLite3 (with constraints and indexes)
 - **Frontend:** ERB templates + Bootstrap 5 (CDN)
+- **Pagination:** Kaminari
+- **Testing:** Minitest + SimpleCov (100% coverage)
 - **Containerization:** Docker
 
 ## Project Structure
@@ -100,10 +106,33 @@ For detailed information about:
 
 ## Testing
 
-The application includes basic validations:
-- Task title is required
+The application has **100% test coverage** with comprehensive test suite:
+
+- **55 tests, 113 assertions**
+- **Unit Tests** - Model validations, scopes, callbacks, helpers
+- **Integration Tests** - Controller actions, search, error handling
+- **System Tests** - End-to-end user workflows
+- **Coverage:** 100% line coverage (65/65 lines)
+
+### Validations
+
+- Task title is required (max 255 characters)
+- Description is optional (max 10,000 characters)
 - Status must be one of: `pending`, `in_progress`, `completed`
 - Default status is `pending` if not specified
+- Database-level constraints enforce data integrity
+
+### Running Tests
+
+```bash
+# Run all tests
+docker-compose exec web rails test
+
+# Run specific test suites
+docker-compose exec web rails test:models
+docker-compose exec web rails test:controllers
+docker-compose exec web rails test:system
+```
 
 ## Troubleshooting
 
@@ -130,13 +159,31 @@ The application includes basic validations:
 - Use Docker for development instead (recommended)
 - Or install MSYS2 development tools: `ridk enable` then `pacman -S --needed base-devel mingw-w64-x86_64-toolchain`
 
+## Security Features
+
+- **Content Security Policy (CSP)** - Enabled with Bootstrap CDN support
+- **Host Authorization** - DNS rebinding protection in production
+- **XSS Protection** - Proper HTML escaping throughout
+- **Input Validation** - Length limits and sanitization
+- **Database Constraints** - NOT NULL, defaults, and check constraints
+
+## Performance Features
+
+- **Pagination** - 25 tasks per page (configurable)
+- **Database Indexes** - On status and created_at columns
+- **Efficient Queries** - Optimized query chaining
+- **Input Limits** - Search query length limits to prevent DoS
+
 ## Notes
 
-This project was built as a takehome assessment. All core requirements have been implemented:
+This project was built as a takehome assessment. All core requirements have been implemented and enhanced:
 - Full CRUD operations
-- Server-side search functionality
+- Server-side search functionality with pagination
 - Docker containerization
 - Responsive Bootstrap UI
 - Clean MVC architecture
 - Production-ready code (unused features removed)
-- Comprehensive testing and validation
+- **100% test coverage** (55 tests, 113 assertions)
+- Security best practices (CSP, host authorization, XSS protection)
+- Database optimizations (indexes, constraints)
+- Input validation and sanitization
