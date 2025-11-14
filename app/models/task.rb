@@ -3,7 +3,7 @@ class Task < ApplicationRecord
   validates :title, presence: true
   
   # Enum for status (replaces the inclusion validation)
-  enum status: { pending: 'pending', in_progress: 'in_progress', completed: 'completed' }
+  enum :status, { pending: 'pending', in_progress: 'in_progress', completed: 'completed' }
   
   # Callbacks
   before_validation :set_default_status
