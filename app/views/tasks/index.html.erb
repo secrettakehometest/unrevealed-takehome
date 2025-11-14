@@ -59,6 +59,10 @@
         <% end %>
       </tbody>
     </table>
+    
+    <div class="mt-4">
+      <%= paginate @tasks %>
+    </div>
   <% else %>
     <div class="alert alert-secondary text-center">
       <p class="mb-0"><em>No tasks found<% if @search_query.present? %> matching your search<% end %>.</em></p>

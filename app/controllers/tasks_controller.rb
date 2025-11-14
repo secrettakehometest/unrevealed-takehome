@@ -8,8 +8,9 @@ class TasksController < ApplicationController
     # Limit search query length to prevent UI issues and truncate if needed
     search_param = params[:search]&.slice(0, 100)
     @tasks = @tasks.search_by_title(search_param) if search_param.present?
+    @tasks = @tasks.page(params[:page]).per(25)  # Paginate: 25 tasks per page
     @search_query = search_param
-    @tasks_count = @tasks.count
+    @tasks_count = @tasks.total_count  # More efficient than .count for paginated results
   end
 
   # GET /tasks/1
