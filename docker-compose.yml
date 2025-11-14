@@ -11,6 +11,10 @@ services:
       - db_data:/app/db
     environment:
       - RAILS_ENV=development
+    # Service dependencies (uncomment when adding services like redis, postgres, etc.)
+    # depends_on:
+    #   - redis
+    #   - postgres
     restart: unless-stopped
     logging:
       driver: "json-file"
