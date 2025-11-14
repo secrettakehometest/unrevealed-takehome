@@ -3,6 +3,7 @@ class Task < ApplicationRecord
   validates :title, presence: true
   
   # Enum for status (replaces the inclusion validation)
+  # Hash syntax required to store string values in string column (not integers)
   enum :status, { pending: 'pending', in_progress: 'in_progress', completed: 'completed' }
   
   # Callbacks
