@@ -11,6 +11,7 @@ services:
       - db_data:/app/db
     environment:
       - RAILS_ENV=development
+    restart: unless-stopped
     stdin_open: true
     tty: true
 
