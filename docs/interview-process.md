@@ -40,8 +40,8 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 ### Interview Scheduling (November 4-6, 2025) {#interview-scheduling-november-4-6-2025}
 
-**November 4, 2025 - Stephanie to Mark:**
-> Hi Mark,
+**November 4, 2025 - Recruiter to Candidate:**
+> Hi Candidate,
 > 
 > Thanks again for taking the time to talk with me! You are all set for a 30-minute Google Meet video interview on Thursday, November 6th at 10:30am CST with Interviewer A, Lead Android Developer.
 > 
@@ -50,33 +50,33 @@ This document tracks the complete interview process for the Full Stack Engineer 
 > Thanks,
 > Recruiter
 
-**November 4, 2025 - Mark to Stephanie:**
+**November 4, 2025 - Candidate to Recruiter:**
 > Thank you, looking forward to it.
 
 ### Technical Take-Home Assignment (November 6-7, 2025) {#technical-take-home-assignment-november-6-7-2025}
 
-**November 6, 2025 - Stephanie to Mark:**
-> Hi Mark,
+**November 6, 2025 - Recruiter to Candidate:**
+> Hi Candidate,
 > 
-> I talked with Brian briefly, and we would like to have you complete the technical take home. Once you have this completed, please send it back to me to forward to Brian, and then I will schedule a time for you to review with both him and Kyle, the other Full Stack Engineer. Instructions are attached, but please let me know if you have any questions, I'm happy to loop Brian in for clarity!
+> I talked with Interviewer A briefly, and we would like to have you complete the technical take home. Once you have this completed, please send it back to me to forward to Interviewer A, and then I will schedule a time for you to review with both him and Interviewer B, the other Full Stack Engineer. Instructions are attached, but please let me know if you have any questions, I'm happy to loop Interviewer A in for clarity!
 > 
 > Best,
 > Recruiter
-> People and Talent Operations Lead | https://www.revealtech.ai
+> People and Talent Operations Lead | https://www.techcorp.example
 
-**November 6, 2025 - Mark to Stephanie:**
+**November 6, 2025 - Candidate to Recruiter:**
 > Thank you, will do.
 
-**November 7, 2025 - Mark to Stephanie:**
+**November 7, 2025 - Candidate to Recruiter:**
 > ok, everything is online in a GH repo: http://github.com/candidate-username/task-manager-takehome. It's marked private, so if you wanna give me GH usernames to invite, I can do that.
 
-**November 7, 2025 - Stephanie to Mark:**
-> Thank you! You can add interviewer-a & interviewer-b as the usernames. What is your availability next week for a review with Brian and Kyle?
+**November 7, 2025 - Recruiter to Candidate:**
+> Thank you! You can add interviewer-a & interviewer-b as the usernames. What is your availability next week for a review with Interviewer A and Interviewer B?
 
 ### Technical Review Scheduling (November 7-12, 2025) {#technical-review-scheduling-november-7-12-2025}
 
-**November 9, 2025 - Mark to Stephanie:**
-> Hi Stephanie.
+**November 9, 2025 - Candidate to Recruiter:**
+> Hi Recruiter.
 > 
 > Thanks for the update! I've added interviewer-a and interviewer-b as requested.
 > 
@@ -86,27 +86,27 @@ This document tracks the complete interview process for the Full Stack Engineer 
 > 
 > November 13 > 10am ~ 11am, 1:30 pm ~ 4:30pm
 > 
-> Please let me know what works best for Brian and Kyle.
+> Please let me know what works best for Interviewer A and Interviewer B.
 > 
 > Looking forward to the review.
 > 
 > Best,
-> Mark
+> Candidate
 
-**November 10, 2025 - Stephanie to Mark:**
-> Hi Mark, 
+**November 10, 2025 - Recruiter to Candidate:**
+> Hi Candidate, 
 > 
 > Let's plan on Wednesday the 12th at 3pm EST. I'll send the invite with details now! 
 > 
 > Best,
 > Recruiter
-> People and Talent Operations Lead | https://www.revealtech.ai
+> People and Talent Operations Lead | https://www.techcorp.example
 
-**November 10, 2025 - Mark to Stephanie:**
+**November 10, 2025 - Candidate to Recruiter:**
 > The 12th, either before or after the 130 cst hour works best for me.
 
-**November 10, 2025 - Stephanie to Mark:**
-> Hi Mark,
+**November 10, 2025 - Recruiter to Candidate:**
+> Hi Candidate,
 > 
 > You are all set for a 30-minute Google Meet video technical review on Wednesday, November 12th at 3pm EST with Interviewer A and Interviewer B, Full Stack Engineer. 
 > 
@@ -115,17 +115,17 @@ This document tracks the complete interview process for the Full Stack Engineer 
 > Thanks,
 > Recruiter
 
-**November 11, 2025 - Stephanie to Mark:**
-> Hi Mark, 
+**November 11, 2025 - Recruiter to Candidate:**
+> Hi Candidate, 
 > 
 > I saw you proposed a new time for the technical review tomorrow. That does work for the team, so I moved it to 4pm EST. 
 > 
 > Best,
 > Recruiter
-> People and Talent Operations Lead | https://www.revealtech.ai
+> People and Talent Operations Lead | https://www.techcorp.example
 
-**November 12, 2025 - Mark to Stephanie:**
-> Hi Stephanie.
+**November 12, 2025 - Candidate to Recruiter:**
+> Hi Recruiter.
 > 
 > Thank you, looking forward to it! 
 > 
@@ -134,17 +134,17 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 ### Final Outcome (November 14, 2025) {#final-outcome-november-14-2025}
 
-**November 14, 2025 - Stephanie to Mark:**
-> Hi Mark,
+**November 14, 2025 - Recruiter to Candidate:**
+> Hi Candidate,
 > 
-> I wanted to follow up following your interview with Brian and Kyle this week. After much consideration, at this time we have decided to move forward with other candidates. We both appreciate the time you took to speak with each of us and wish you the best. 
+> I wanted to follow up following your interview with Interviewer A and Interviewer B this week. After much consideration, at this time we have decided to move forward with other candidates. We both appreciate the time you took to speak with each of us and wish you the best. 
 > 
 > Regards,
-> Stephanie
+> Recruiter
 > People and Talent Operations Lead
 
-**November 14, 2025 - Mark to Stephanie:**
-> Hi Stephanie,
+**November 14, 2025 - Candidate to Recruiter:**
+> Hi Recruiter,
 > 
 > Thank you for letting me know.
 > 
@@ -170,7 +170,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 #### Summary
 
 **Action Items:**
-- Follow up with Stephanie (expect outreach next day)
+- Follow up with Recruiter (expect outreach next day)
 - Prepare examples of Docker/Kubernetes deployments and Terraform usage
 - Review API design process for mobile apps (REST vs GraphQL)
 - Brush up on FedRAMP security standards and cloud database experience
@@ -212,9 +212,9 @@ This document tracks the complete interview process for the Full Stack Engineer 
 - Product lead driving AI vision, resource allocation, and data pipeline development
 
 **Closing Remarks:**
-- Interviewer expressed alignment of team challenges with Mark's skill set
+- Interviewer expressed alignment of team challenges with candidate's skill set
 - Emphasis on solving unsolved problems, rapid R&D, and upcoming product launch (target Jan)
-- Open invitation for Mark to ask questions before wrap-up
+- Open invitation for candidate to ask questions before wrap-up
 
 #### Full Transcript
 
@@ -229,7 +229,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [0:42]:** Of the things on your resume and ask you a few questions.
 
-**Them [0:46]:** So. My name is Brian. I'm the lead for the business unit.
+**Them [0:46]:** So. My name is Interviewer A. I'm the lead for the business unit.
 
 **Them [0:51]:** For? It's called human systems, which is basically all our biometrics and.
 
@@ -345,7 +345,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [16:15]:** How do you handle code reviews and mentoring more junior developers?
 
-**Them [17:45]:** So what's kind of attracting you to reveal.
+**Them [17:45]:** So what's kind of attracting you to TechCorp.
 
 **Them [17:48]:** What are you kind of looking for in your next position?
 
@@ -487,7 +487,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [25:19]:** Holding a lot of stuff we can do.
 
-**Them [25:28]:** I will let you go. I guess kind of. The next steps, though, is I've talked to Stephanie, and then.
+**Them [25:28]:** I will let you go. I guess kind of. The next steps, though, is I've talked to Recruiter, and then.
 
 **Them [25:30]:** She will reach out the next day or so.
 
@@ -528,8 +528,8 @@ This document tracks the complete interview process for the Full Stack Engineer 
 **Key Discussion Points:**
 
 **Background & Setup:**
-- Mark and Kyle both in Dallas metroplex (Mark in Richardson, Kyle in Dallas)
-- Mark runs Windows, had to reinstall Docker after system reformat
+- Candidate and Interviewer B both in [Metro Area] (Candidate in [City A], Interviewer B in [City B])
+- Candidate runs Windows, had to reinstall Docker after system reformat
 - Uses Docker to host Ruby on Rails backend with SQLite as the database
 - Front-end built with Bootstrap; Docker needed because of Windows environment constraints
 - Relies on Cursor (AI coding assistant) to generate unit tests, then manually sanity-checks them
@@ -546,7 +546,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
    - Suggested centralizing them in a constant or helper module
 
 **Live Refactoring:**
-- Mark live-refactored the status handling during the call
+- Candidate live-refactored the status handling during the call
 - Created a Rails enum, cleaned up references, and ran the test suite
 - Fixed several manual issues live (typos, missing tags, syntax mismatches)
 - Used Cursor's automation tooling to run tests and verify changes
@@ -564,7 +564,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 - Setup: Docker container running Rails app, code built with heavy Cursor/AI assist for initial scaffolding
 - Stack choices: Used Docker, Rails, SQLite (for demo), and Bootstrap
 - Volume gotcha: They zeroed in on Docker Compose's auto-created volumes—asked why the app worked without an explicit volume declaration
-- Code review focus: They flagged "status" duplication, Mark acknowledged it was quick-and-dirty scaffolding (Cursor default), then live-refactored with Rails enum
+- Code review focus: They flagged "status" duplication, candidate acknowledged it was quick-and-dirty scaffolding (Cursor default), then live-refactored with Rails enum
 - Fixed several manual issues live (typos, missing tags, syntax mismatches)—not pretty, but ultimately got it running and tested
 
 **Communication:**
@@ -589,50 +589,50 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Key Moments from Transcript:**
 
-- **1:28-3:12**: Small talk about Dallas weather and metro area size
-- **3:34-4:26**: Mark's background overview (elder full-stack dev, agentic AI focus, Quasar and Sanctum OS)
+- **1:28-3:12**: Small talk about [Metro Area] weather and metro area size
+- **3:34-4:26**: Candidate's background overview (elder full-stack dev, agentic AI focus, Quasar and Sanctum OS)
 - **4:43-8:17**: Technical setup discussion (Windows, Docker, SQLite, Bootstrap, Cursor for tests)
 - **8:21-13:26**: Project walkthrough (Rails scaffolding, validations, CRUD operations, testing approach)
 - **13:34-20:38**: Code review of validations in Task model and controller
 - **20:46-23:55**: Docker volumes discussion - why it works without explicit declaration
 - **24:08-27:40**: Status duplication issue identified, discussion of solutions (constants, enums)
 - **27:40-44:56**: Live refactoring session - converting to Rails enum, updating all references, running tests
-- **45:02-45:55**: Closing - questions, next steps (Stephanie will follow up tomorrow)
+- **45:02-45:55**: Closing - questions, next steps (Recruiter will follow up tomorrow)
 
 **Notable Quotes:**
 
-- Mark on Cursor: "I'm a huge fan of letting cursor write unit tests it's it's more thorough than I'll ever be... I just sanity check it when it's done and make sure when it's writing the corrections that it's not correcting the test to get a passing grade versus correcting the code that was wrong in the first place."
+- Candidate on Cursor: "I'm a huge fan of letting cursor write unit tests it's it's more thorough than I'll ever be... I just sanity check it when it's done and make sure when it's writing the corrections that it's not correcting the test to get a passing grade versus correcting the code that was wrong in the first place."
 
-- Mark on Docker: "I don't use them unless I need them I try to leave the code my microservices... it's easier to keep the user out of trouble if you put everything inside of a docker container rather than tell them to install it and use a virtual environment."
+- Candidate on Docker: "I don't use them unless I need them I try to leave the code my microservices... it's easier to keep the user out of trouble if you put everything inside of a docker container rather than tell them to install it and use a virtual environment."
 
-- Mark on the experience: "I don't know how exciting that was to watch... I don't know if that tells you what you need to know about me."
+- Candidate on the experience: "I don't know how exciting that was to watch... I don't know if that tells you what you need to know about me."
 
 #### Detailed Transcript
 
 <details>
 <summary>Click to expand full transcript (45+ minutes)</summary>
 
-**Mark [1:28]:** there you go yeah it's going pretty good how about you
+**Candidate [1:28]:** there you go yeah it's going pretty good how about you
 
 **Them [1:35]:** add it
 
 **Them [1:35]:** yet
 
-**Mark [1:37]:** in
+**Candidate [1:37]:** in
 
 **Them [1:37]:** texas
 
-**Them [1:39]:** yeah i'm in texas i'm in dallas
+**Them [1:39]:** yeah i'm in [State] i'm in [Metro Area]
 
 **Them [1:44]:** peter shut off
 
 **Them [1:46]:** because it's freezing here
 
-**Mark [1:56]:** it was one of those weird days like i put on a hoodie when i went out for my walk today thinking it was like oh it's going to be a little chilly it's seventy five
+**Candidate [1:56]:** it was one of those weird days like i put on a hoodie when i went out for my walk today thinking it was like oh it's going to be a little chilly it's seventy five
 
 **Them [2:00]:** so in the
 
-**Mark [2:00]:** shade it was just right in the sun sweating
+**Candidate [2:00]:** shade it was just right in the sun sweating
 
 **Them [2:06]:** feet
 
@@ -640,17 +640,17 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [2:18]:** we have an air conditioner but i think i've used it twice that was just a test that we bought the place right
 
-**Them [2:23]:** we're in dallas are you located
+**Them [2:23]:** we're in [Metro Area] are you located
 
-**Mark [2:25]:** i'm on the north side richardson
+**Candidate [2:25]:** i'm on the north side [City A]
 
-**Mark [2:28]:** okay i'm not familiar with that
+**Candidate [2:28]:** okay i'm not familiar with that
 
-**Mark [2:38]:** if you're going north on seventy five which is like one of the big highways that runs the town it's the first suburb to the north it's still inside the county
+**Candidate [2:38]:** if you're going north on seventy five which is like one of the big highways that runs the town it's the first suburb to the north it's still inside the county
 
-**Them [2:44]:** so this is kyle he also lives in the dallas area
+**Them [2:44]:** so this is Interviewer B he also lives in the [Metro Area]
 
-**Them [2:47]:** exactly sure where the dallas area
+**Them [2:47]:** exactly sure where the [Metro Area]
 
 **Them [2:50]:** big metroplex
 
@@ -660,13 +660,13 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [3:01]:** i didn't even know that it's an interesting stat yeah
 
-**Them [3:12]:** so it's just kind of hop into it it looks like stephanie just put a half hour on the calendar usually we do forty five
+**Them [3:12]:** so it's just kind of hop into it it looks like Recruiter just put a half hour on the calendar usually we do forty five
 
 **Them [3:19]:** so if you can it'd be great if we could stay on a little bit if you have any questions or anything like that
 
 **Them [3:21]:** in the interest of time
 
-**Them [3:28]:** we'll just kind of hop into it sure so for kyle's benefit can you just kind of get him run down on your background a little bit
+**Them [3:28]:** we'll just kind of hop into it sure so for Interviewer B's benefit can you just kind of get him run down on your background a little bit
 
 **Them [3:32]:** yeah
 
@@ -686,49 +686,49 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [4:43]:** so generally the way we run these meetings is we'll ask you to share your screen we'll just have you run your project walk us through what you did why you did it
 
-**Mark [4:47]:** hop in with questions as they come up
+**Candidate [4:47]:** hop in with questions as they come up
 
-**Mark [4:58]:** and i found
+**Candidate [4:58]:** and i found
 
 **Them [4:58]:** in these interviews with google meet it's easier just to share your whole screen because for some reason if you share a window it just eats all the memory
 
-**Mark [4:59]:** sure
+**Candidate [4:59]:** sure
 
 **Them [5:03]:** really screws up your experience
 
-**Mark [5:11]:** i don't usually have all these things on my desktop running so let me restart docker and everything
+**Candidate [5:11]:** i don't usually have all these things on my desktop running so let me restart docker and everything
 
-**Mark [5:19]:** probably should have done that before we got on a call though
+**Candidate [5:19]:** probably should have done that before we got on a call though
 
-**Mark [5:34]:** is it
+**Candidate [5:34]:** is it
 
-**Mark [5:35]:** blurring
+**Candidate [5:35]:** blurring
 
-**Mark [5:41]:** no just takes a second
+**Candidate [5:41]:** no just takes a second
 
 **Them [5:45]:** windows or linux
 
-**Mark [5:47]:** running windows
+**Candidate [5:47]:** running windows
 
-**Mark [5:55]:** usually
+**Candidate [5:55]:** usually
 
-**Mark [6:02]:** i honestly don't run docker instant haven't run docker instances locally in a minute so i had to reinstall it on this machine
+**Candidate [6:02]:** i honestly don't run docker instant haven't run docker instances locally in a minute so i had to reinstall it on this machine
 
-**Mark [6:06]:** i had it on before but
+**Candidate [6:06]:** i had it on before but
 
-**Mark [6:09]:** i had to reformat situation since then
+**Candidate [6:09]:** i had to reformat situation since then
 
-**Mark [6:18]:** you do a lot of freelance work there's scammers out there that'll put malware in the github repos
+**Candidate [6:18]:** you do a lot of freelance work there's scammers out there that'll put malware in the github repos
 
-**Mark [6:24]:** and i had too close of a call didn't feel comfortable about what may or may not have ran so i just nuke the whole machine
+**Candidate [6:24]:** and i had too close of a call didn't feel comfortable about what may or may not have ran so i just nuke the whole machine
 
-**Mark [6:28]:** took me like took me took like two or three days out of productivity
+**Candidate [6:28]:** took me like took me took like two or three days out of productivity
 
-**Mark [6:30]:** let's see
+**Candidate [6:30]:** let's see
 
-**Mark [6:32]:** is the docker compose up
+**Candidate [6:32]:** is the docker compose up
 
-**Mark [6:43]:** do this while that's going
+**Candidate [6:43]:** do this while that's going
 
 **Them [6:56]:** to have come across quite few people using windows machines the past couple of months and i hadn't touched windows years
 
@@ -736,7 +736,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [7:05]:** max i've been running macs since college
 
-**Mark [7:14]:** i like linux better but it's windows is mostly one of most familiar with
+**Candidate [7:14]:** i like linux better but it's windows is mostly one of most familiar with
 
 **Them [7:23]:** mean that's not the worst thing in the world because i know one of the other teams here recently
 
@@ -748,13 +748,13 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [7:37]:** which we did a lot of azure cloud stuff
 
-**Mark [7:45]:** it was mostly because the engineers that we hired just wanted
+**Candidate [7:45]:** it was mostly because the engineers that we hired just wanted
 
-**Mark [7:51]:** to i think well the dev environment was azure i think we ended up migrating it to aws after we were done though
+**Candidate [7:51]:** to i think well the dev environment was azure i think we ended up migrating it to aws after we were done though
 
-**Mark [7:54]:** ok
+**Candidate [7:54]:** ok
 
-**Mark [7:56]:** looks like we're up
+**Candidate [7:56]:** looks like we're up
 
 **Them [8:07]:** cool yeah
 
@@ -762,57 +762,57 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [8:17]:** base everything up
 
-**Mark [8:21]:** yeah i mean it's pretty straightforward
+**Candidate [8:21]:** yeah i mean it's pretty straightforward
 
-**Mark [8:26]:** i kind of used some templates there
+**Candidate [8:26]:** i kind of used some templates there
 
-**Mark [8:29]:** i think
+**Candidate [8:29]:** i think
 
-**Mark [8:35]:** i what did i choose i think i chose bootstrap and then ruby in the back end
+**Candidate [8:35]:** i what did i choose i think i chose bootstrap and then ruby in the back end
 
-**Mark [8:40]:** because it's a windows machine i had to use docker
+**Candidate [8:40]:** because it's a windows machine i had to use docker
 
-**Mark [8:45]:** sqlite for the database because you know why get crazy with it
+**Candidate [8:45]:** sqlite for the database because you know why get crazy with it
 
-**Mark [8:52]:** i ran it through
+**Candidate [8:52]:** i ran it through
 
-**Mark [8:56]:** a bunch of automation testing and a bunch of you know like
+**Candidate [8:56]:** a bunch of automation testing and a bunch of you know like
 
-**Mark [9:00]:** did i did i create unit tests for it or not yeah i think i did
+**Candidate [9:00]:** did i did i create unit tests for it or not yeah i think i did
 
-**Mark [9:02]:** looking
+**Candidate [9:02]:** looking
 
 **Them [9:05]:** at what did you use to write those unit tests
 
 **Them [9:12]:** honestly
 
-**Mark [9:12]:** i i'm i'm a huge fan of letting cursor write unit tests it's it's more thorough than i'll ever be
+**Candidate [9:12]:** i i'm i'm a huge fan of letting cursor write unit tests it's it's more thorough than i'll ever be
 
-**Mark [9:17]:** and so i just make i just you know sanity check it when it's done
+**Candidate [9:17]:** and so i just make i just you know sanity check it when it's done
 
-**Mark [9:25]:** and make sure when it's writing the corrections that it's not correcting the test to get a passing grade versus correcting the code that was wrong in the first place
+**Candidate [9:25]:** and make sure when it's writing the corrections that it's not correcting the test to get a passing grade versus correcting the code that was wrong in the first place
 
-**Mark [9:29]:** so that's the that's the danger of running that so yeah
+**Candidate [9:29]:** so that's the that's the danger of running that so yeah
 
 **Them [9:47]:** environment is and you just kind of talk through the the docker container what you said you chose sqlite how did you build the tables that kind of stuff
 
-**Mark [9:56]:** yeah so let me actually go back if i've slept since then but i did write documentation
+**Candidate [9:56]:** yeah so let me actually go back if i've slept since then but i did write documentation
 
-**Mark [9:58]:** so
+**Candidate [9:58]:** so
 
-**Mark [10:00]:** i will
+**Candidate [10:00]:** i will
 
-**Mark [10:02]:** actually i got it here in the github
+**Candidate [10:02]:** actually i got it here in the github
 
-**Mark [10:10]:** so i built you know what rather than just walking through the whole thing i built a little walkthrough
+**Candidate [10:10]:** so i built you know what rather than just walking through the whole thing i built a little walkthrough
 
-**Mark [10:16]:** that we can you can kind of scroll through i'll give you the link for it as well
+**Candidate [10:16]:** that we can you can kind of scroll through i'll give you the link for it as well
 
-**Mark [10:19]:** here in the little chat if you want to run it locally
+**Candidate [10:19]:** here in the little chat if you want to run it locally
 
-**Mark [10:23]:** but
+**Candidate [10:23]:** but
 
-**Mark [10:26]:** where is the chat
+**Candidate [10:26]:** where is the chat
 
 **Them [10:31]:** i used to
 
@@ -824,73 +824,73 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [10:44]:** visible
 
-**Mark [10:44]:** features
+**Candidate [10:44]:** features
 
-**Mark [10:47]:** like the forms are what's required what's not
+**Candidate [10:47]:** like the forms are what's required what's not
 
-**Mark [10:54]:** then the project plan so you're asking about what's in it so
+**Candidate [10:54]:** then the project plan so you're asking about what's in it so
 
-**Mark [11:05]:** my time estimations weren't exactly right i was i spent a lot more time on the polish phase than i did on the
+**Candidate [11:05]:** my time estimations weren't exactly right i was i spent a lot more time on the polish phase than i did on the
 
-**Mark [11:08]:** front end
+**Candidate [11:08]:** front end
 
-**Mark [11:11]:** stuff the front end stuff actually went a lot quicker
+**Candidate [11:11]:** stuff the front end stuff actually went a lot quicker
 
-**Mark [11:24]:** but yeah so this is kind of where i buttoned up the docker container i think i built like the scaffolding for it because you know like the ruby does all the scaffolding for you kind of
+**Candidate [11:24]:** but yeah so this is kind of where i buttoned up the docker container i think i built like the scaffolding for it because you know like the ruby does all the scaffolding for you kind of
 
-**Mark [11:28]:** i think where it was yeah configurability was over here
+**Candidate [11:28]:** i think where it was yeah configurability was over here
 
-**Mark [11:30]:** so
+**Candidate [11:30]:** so
 
-**Mark [11:33]:** this is where i just kind of
+**Candidate [11:33]:** this is where i just kind of
 
-**Mark [11:35]:** like designed the schema
+**Candidate [11:35]:** like designed the schema
 
-**Mark [11:43]:** scaffold everything that was like you know what it was going to be built the routes
+**Candidate [11:43]:** scaffold everything that was like you know what it was going to be built the routes
 
-**Mark [11:44]:** kind of like the back end
+**Candidate [11:44]:** kind of like the back end
 
-**Mark [11:49]:** well kind of transitioning in the back end
+**Candidate [11:49]:** well kind of transitioning in the back end
 
-**Mark [11:54]:** this is where like i put like validations and stuff in it
+**Candidate [11:54]:** this is where like i put like validations and stuff in it
 
-**Mark [11:59]:** was like phase two but it was really like you know five minutes after phase one
+**Candidate [11:59]:** was like phase two but it was really like you know five minutes after phase one
 
-**Mark [12:03]:** this is where all like the crud stuff went in
+**Candidate [12:03]:** this is where all like the crud stuff went in
 
-**Mark [12:08]:** like all the real functionality
+**Candidate [12:08]:** like all the real functionality
 
 **Them [12:13]:** the validations did you add or some of the things that that you thought were important
 
-**Mark [12:18]:** let's see
+**Candidate [12:18]:** let's see
 
-**Mark [12:21]:** i've got
+**Candidate [12:21]:** i've got
 
-**Mark [12:22]:** where's that
+**Candidate [12:22]:** where's that
 
-**Mark [12:28]:** ok i've got some notes here i'm looking up
+**Candidate [12:28]:** ok i've got some notes here i'm looking up
 
-**Mark [12:35]:** so
+**Candidate [12:35]:** so
 
-**Mark [12:44]:** yeah this is i did so actually i did stop the test here so that was the like i stopped a test here before i went on to the next phase
+**Candidate [12:44]:** yeah this is i did so actually i did stop the test here so that was the like i stopped a test here before i went on to the next phase
 
-**Mark [12:54]:** this is where i built some of the tests what i was validating in the back end is case insensitivity
+**Candidate [12:54]:** this is where i built some of the tests what i was validating in the back end is case insensitivity
 
-**Mark [12:59]:** success error messages
+**Candidate [12:59]:** success error messages
 
-**Mark [13:03]:** that they were rendering correctly
+**Candidate [13:03]:** that they were rendering correctly
 
-**Mark [13:04]:** you know to spec
+**Candidate [13:04]:** you know to spec
 
-**Mark [13:09]:** basic data validation
+**Candidate [13:09]:** basic data validation
 
-**Mark [13:12]:** which was really just you know
+**Candidate [13:12]:** which was really just you know
 
-**Mark [13:23]:** the the you know the length and whatnot it wasn't really this is not a super complicated thing that wasn't like form type like data types to validate really
+**Candidate [13:23]:** the the you know the length and whatnot it wasn't really this is not a super complicated thing that wasn't like form type like data types to validate really
 
-**Mark [13:24]:** so
+**Candidate [13:24]:** so
 
-**Mark [13:26]:** quite easy honestly
+**Candidate [13:26]:** quite easy honestly
 
 **Them [13:34]:** pretty liberal in the back end too so like it's a you know a feel is a feel for sqlite
 
@@ -898,45 +898,45 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [13:44]:** put id jews
 
-**Mark [13:50]:** so i use cursor for pretty much everything but i i use
+**Candidate [13:50]:** so i use cursor for pretty much everything but i i use
 
-**Mark [13:53]:** this
+**Candidate [13:53]:** this
 
-**Mark [13:56]:** i don't really use the agent mode
+**Candidate [13:56]:** i don't really use the agent mode
 
-**Mark [13:57]:** i'll be honest
+**Candidate [13:57]:** i'll be honest
 
-**Mark [13:59]:** it's not i'm not a fan of it
+**Candidate [13:59]:** it's not i'm not a fan of it
 
-**Mark [14:03]:** i use that agent mode for generating issues and that's about it
+**Candidate [14:03]:** i use that agent mode for generating issues and that's about it
 
-**Mark [14:11]:** so
+**Candidate [14:11]:** so
 
-**Mark [14:22]:** yeah i'm not sure what you want to look at exactly but
+**Candidate [14:22]:** yeah i'm not sure what you want to look at exactly but
 
 **Them [14:22]:** see where you're doing the validation
 
-**Mark [14:23]:** sure
+**Candidate [14:23]:** sure
 
-**Mark [14:29]:** give me one second
+**Candidate [14:29]:** give me one second
 
-**Mark [14:29]:** here
+**Candidate [14:29]:** here
 
-**Mark [14:50]:** sorry my system's lagging
+**Candidate [14:50]:** sorry my system's lagging
 
-**Mark [14:55]:** closing out some other i've got three cursor windows open right now so i'm closing some out
+**Candidate [14:55]:** closing out some other i've got three cursor windows open right now so i'm closing some out
 
-**Mark [14:58]:** hopefully
+**Candidate [14:58]:** hopefully
 
-**Mark [15:06]:** okay
+**Candidate [15:06]:** okay
 
-**Mark [15:16]:** today anytime today
+**Candidate [15:16]:** today anytime today
 
-**Mark [15:23]:** sorry i've been doing this i don't know if they should remember i showed you before i'm doing this like
+**Candidate [15:23]:** sorry i've been doing this i don't know if they should remember i showed you before i'm doing this like
 
-**Mark [15:25]:** work for this robot here
+**Candidate [15:25]:** work for this robot here
 
-**Mark [15:30]:** so i had a bunch of stuff going in the background shutting down
+**Candidate [15:30]:** so i had a bunch of stuff going in the background shutting down
 
 **Them [15:36]:** something similar
 
@@ -944,99 +944,99 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [15:40]:** yeah
 
-**Mark [15:42]:** hopefully
+**Candidate [15:42]:** hopefully
 
-**Mark [15:45]:** been working on like a copilot dashboard
+**Candidate [15:45]:** been working on like a copilot dashboard
 
-**Mark [15:47]:** for it
+**Candidate [15:47]:** for it
 
-**Mark [15:49]:** so
+**Candidate [15:49]:** so
 
-**Mark [15:53]:** basically you can
+**Candidate [15:53]:** basically you can
 
-**Mark [16:03]:** basically you can have like your your lidar and your video up on the same screen it'll like transcribe any audio that it detects and whatnot
+**Candidate [16:03]:** basically you can have like your your lidar and your video up on the same screen it'll like transcribe any audio that it detects and whatnot
 
-**Mark [16:06]:** i
+**Candidate [16:06]:** i
 
-**Mark [16:08]:** cannot get this i mean i've got to restart cursor real quick give me one second
+**Candidate [16:08]:** cannot get this i mean i've got to restart cursor real quick give me one second
 
-**Mark [16:11]:** i just i'm just going to close all the windows
+**Candidate [16:11]:** i just i'm just going to close all the windows
 
-**Mark [16:14]:** i think they did an update today
+**Candidate [16:14]:** i think they did an update today
 
-**Mark [16:25]:** might be time to change the vsc for the day if there's shit sometimes their stuff's not stable
+**Candidate [16:25]:** might be time to change the vsc for the day if there's shit sometimes their stuff's not stable
 
-**Mark [16:56]:** now
+**Candidate [16:56]:** now
 
-**Mark [16:57]:** that file open folder
+**Candidate [16:57]:** that file open folder
 
-**Mark [18:17]:** come on
+**Candidate [18:17]:** come on
 
-**Mark [18:18]:** why is it so slow
+**Candidate [18:18]:** why is it so slow
 
-**Mark [18:21]:** here we go
+**Candidate [18:21]:** here we go
 
-**Mark [18:36]:** mod
+**Candidate [18:36]:** mod
 
-**Mark [18:37]:** els
+**Candidate [18:37]:** els
 
-**Mark [18:38]:** where's miles
+**Candidate [18:38]:** where's miles
 
-**Mark [18:45]:** god
+**Candidate [18:45]:** god
 
-**Mark [18:45]:** dang
+**Candidate [18:45]:** dang
 
-**Mark [18:50]:** app
+**Candidate [18:50]:** app
 
-**Mark [18:51]:** models
+**Candidate [18:51]:** models
 
-**Mark [18:56]:** so here we go
+**Candidate [18:56]:** so here we go
 
-**Mark [19:05]:** here and in task controllers which is over in controllers
+**Candidate [19:05]:** here and in task controllers which is over in controllers
 
-**Mark [19:07]:** and
+**Candidate [19:07]:** and
 
-**Mark [19:11]:** let's see
+**Candidate [19:11]:** let's see
 
-**Mark [19:20]:** so in the back end validations or in the task model there is
+**Candidate [19:20]:** so in the back end validations or in the task model there is
 
-**Mark [19:28]:** requires a title requires presence equally true for that you know for the requirement
+**Candidate [19:28]:** requires a title requires presence equally true for that you know for the requirement
 
-**Mark [19:30]:** that there is something that's not nothing
+**Candidate [19:30]:** that there is something that's not nothing
 
-**Mark [19:34]:** it validates
+**Candidate [19:34]:** it validates
 
-**Mark [19:46]:** validate status inclusion in pending in progress keep was completed restricts the status of one of the three allowed values so the drop down and then
+**Candidate [19:46]:** validate status inclusion in pending in progress keep was completed restricts the status of one of the three allowed values so the drop down and then
 
-**Mark [19:47]:** on
+**Candidate [19:47]:** on
 
-**Mark [19:48]:** the
+**Candidate [19:48]:** the
 
-**Mark [19:50]:** controller over here
+**Candidate [19:50]:** controller over here
 
-**Mark [19:55]:** if task save fails
+**Candidate [19:55]:** if task save fails
 
-**Mark [20:00]:** on a validation error where is that that
+**Candidate [20:00]:** on a validation error where is that that
 
-**Mark [20:06]:** here
+**Candidate [20:06]:** here
 
-**Mark [20:11]:** the pattern applies in the update action
+**Candidate [20:11]:** the pattern applies in the update action
 
-**Mark [20:12]:** on
+**Candidate [20:12]:** on
 
-**Mark [20:14]:** somewhere later
+**Candidate [20:14]:** somewhere later
 
-**Mark [20:16]:** thirty
+**Candidate [20:16]:** thirty
 
-**Mark [20:17]:** let's see
+**Candidate [20:17]:** let's see
 
-**Mark [20:18]:** right basically here
+**Candidate [20:18]:** right basically here
 
-**Mark [20:20]:** in the update patch
+**Candidate [20:20]:** in the update patch
 
-**Mark [20:30]:** so basically the form displays the errors whenever validation fails
+**Candidate [20:30]:** so basically the form displays the errors whenever validation fails
 
-**Mark [20:31]:** due to these
+**Candidate [20:31]:** due to these
 
 **Them [20:38]:** any questions you want to hop into right away
 
@@ -1044,17 +1044,17 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [20:46]:** i want to hear
 
-**Mark [20:54]:** i mean functionally like i'm not an engineer
+**Candidate [20:54]:** i mean functionally like i'm not an engineer
 
-**Mark [20:59]:** level with docker i understand how they work i understand where they sit in the stack
+**Candidate [20:59]:** level with docker i understand how they work i understand where they sit in the stack
 
-**Mark [21:10]:** basically i don't use them unless i need them i try to leave the code my microservices you know
+**Candidate [21:10]:** basically i don't use them unless i need them i try to leave the code my microservices you know
 
-**Mark [21:28]:** i write all the stuff with python right so it doesn't really need a docker instance but there's sometimes like this thing that i'm working on now this dashboard has really weird pin dependencies that if anybody points claude code at this thing it would it just is going to like okay well i don't
+**Candidate [21:28]:** i write all the stuff with python right so it doesn't really need a docker instance but there's sometimes like this thing that i'm working on now this dashboard has really weird pin dependencies that if anybody points claude code at this thing it would it just is going to like okay well i don't
 
-**Mark [21:38]:** want you know this version of python i want to use like you know a more recent version and so it's easier to keep the user out of trouble if you put everything inside of a docker container
+**Candidate [21:38]:** want you know this version of python i want to use like you know a more recent version and so it's easier to keep the user out of trouble if you put everything inside of a docker container
 
-**Mark [21:45]:** rather than tell them to install it and use a virtual environment with an old version of python that still works with a robot
+**Candidate [21:45]:** rather than tell them to install it and use a virtual environment with an old version of python that still works with a robot
 
 **Them [21:52]:** docker volumes and now docker volumes work
 
@@ -1062,9 +1062,9 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [21:56]:** i mean
 
-**Mark [22:03]:** like i yeah like basically as a user i wouldn't say you know i could
+**Candidate [22:03]:** like i yeah like basically as a user i wouldn't say you know i could
 
-**Mark [22:08]:** it's where you can persist the data in the writable layer you know
+**Candidate [22:08]:** it's where you can persist the data in the writable layer you know
 
 **Them [22:16]:** there's actually an issue with the app that you have latest docker volumes if you open up the docker compose file
 
@@ -1072,9 +1072,9 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [22:33]:** that's actually not consistent in your code base and i was wondering if you could talk me through why it still works regardless of the fact
 
-**Mark [22:37]:** let's see
+**Candidate [22:37]:** let's see
 
-**Mark [22:40]:** that's a great question
+**Candidate [22:40]:** that's a great question
 
 **Them [23:00]:** specifically i'm talking about within that volume section there in the web service
 
@@ -1084,19 +1084,19 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [23:16]:** it's actually not consistent
 
-**Mark [23:16]:** creating it at runtime like auto creating at runtime
+**Candidate [23:16]:** creating it at runtime like auto creating at runtime
 
-**Mark [23:18]:** even though it's not declared
+**Candidate [23:18]:** even though it's not declared
 
-**Mark [23:23]:** it didn't come up as an error so i guess i didn't really test for it i was kind of speeding through this
+**Candidate [23:23]:** it didn't come up as an error so i guess i didn't really test for it i was kind of speeding through this
 
 **Them [23:35]:** could you maybe walk me through why you think it's still working in its current state
 
-**Mark [23:46]:** i mean i guess docker still mounts the path
+**Candidate [23:46]:** i mean i guess docker still mounts the path
 
-**Mark [23:53]:** whenever a volume isn't explicitly declared just auto creates it at runtime i guess that's i'm not sure how
+**Candidate [23:53]:** whenever a volume isn't explicitly declared just auto creates it at runtime i guess that's i'm not sure how
 
-**Mark [23:55]:** to go granular than that
+**Candidate [23:55]:** to go granular than that
 
 **Them [24:08]:** defined the statuses for each task right
 
@@ -1108,9 +1108,9 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [24:35]:** the overall project structure so that you're not feeding yourself
 
-**Mark [24:43]:** let's see
+**Candidate [24:43]:** let's see
 
-**Mark [24:44]:** well
+**Candidate [24:44]:** well
 
 **Them [24:48]:** you pull up in the code
 
@@ -1118,11 +1118,11 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [24:53]:** the location i'm sorry
 
-**Mark [24:59]:** i'm reading the closed caption because the io is not coming out very well so what are we looking for
+**Candidate [24:59]:** i'm reading the closed caption because the io is not coming out very well so what are we looking for
 
 **Them [25:03]:** statuses of the tasks
 
-**Mark [25:05]:** okay
+**Candidate [25:05]:** okay
 
 **Them [25:10]:** they're defined
 
@@ -1138,41 +1138,41 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [25:31]:** instead of having to update five different locations how might you go about implementing that
 
-**Mark [25:43]:** we probably would want to define a constant in
+**Candidate [25:43]:** we probably would want to define a constant in
 
-**Mark [25:44]:** the yeah
+**Candidate [25:44]:** the yeah
 
-**Mark [25:51]:** probably find a constant somewhere or not necessarily constant but at least an array of statuses and then refer to that as in the model
+**Candidate [25:51]:** probably find a constant somewhere or not necessarily constant but at least an array of statuses and then refer to that as in the model
 
-**Mark [25:55]:** i'm looking at all the places where it shows up you're right
+**Candidate [25:55]:** i'm looking at all the places where it shows up you're right
 
-**Mark [25:59]:** so there's one over in
+**Candidate [25:59]:** so there's one over in
 
-**Mark [26:04]:** the database migrator there's one
+**Candidate [26:04]:** the database migrator there's one
 
-**Mark [26:05]:** in
+**Candidate [26:05]:** in
 
-**Mark [26:08]:** where is that
+**Candidate [26:08]:** where is that
 
-**Mark [26:14]:** yeah that's not really necessary so then there's one over in
+**Candidate [26:14]:** yeah that's not really necessary so then there's one over in
 
-**Mark [26:17]:** app models
+**Candidate [26:17]:** app models
 
-**Mark [26:18]:** is that right
+**Candidate [26:18]:** is that right
 
-**Mark [26:25]:** where is it
+**Candidate [26:25]:** where is it
 
-**Mark [26:26]:** oh
+**Candidate [26:26]:** oh
 
-**Mark [26:28]:** and task rb
+**Candidate [26:28]:** and task rb
 
-**Mark [26:32]:** yeah
+**Candidate [26:32]:** yeah
 
-**Mark [26:34]:** there's
+**Candidate [26:34]:** there's
 
-**Mark [26:35]:** yeah
+**Candidate [26:35]:** yeah
 
-**Mark [26:37]:** there's three other locations you're right
+**Candidate [26:37]:** there's three other locations you're right
 
 **Them [26:42]:** in place
 
@@ -1184,65 +1184,65 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [26:51]:** across the app
 
-**Mark [26:59]:** well probably there's a few ways you could do it one would be to probably
+**Candidate [26:59]:** well probably there's a few ways you could do it one would be to probably
 
-**Mark [27:03]:** just make a helper method with some constants in it
+**Candidate [27:03]:** just make a helper method with some constants in it
 
-**Mark [27:05]:** let's see
+**Candidate [27:05]:** let's see
 
 **Them [27:09]:** you know of any way within to do that
 
-**Mark [27:13]:** railsy num
+**Candidate [27:13]:** railsy num
 
-**Mark [27:17]:** or a simple constant array
+**Candidate [27:17]:** or a simple constant array
 
-**Mark [27:20]:** let's see
+**Candidate [27:20]:** let's see
 
-**Mark [27:25]:** i'm looking through so yeah you could do like i mean that would be probably the easiest way to do it
+**Candidate [27:25]:** i'm looking through so yeah you could do like i mean that would be probably the easiest way to do it
 
-**Mark [27:27]:** just create a task
+**Candidate [27:27]:** just create a task
 
-**Mark [27:30]:** define the class
+**Candidate [27:30]:** define the class
 
-**Mark [27:32]:** with the status and refer to that
+**Candidate [27:32]:** with the status and refer to that
 
 **Them [27:37]:** like that
 
-**Mark [27:40]:** sure
+**Candidate [27:40]:** sure
 
 **Them [29:28]:** alter the existing class
 
 **Them [29:31]:** yeah no i'm just
 
-**Mark [29:38]:** seeing
+**Candidate [29:38]:** seeing
 
-**Mark [29:39]:** what
+**Candidate [29:39]:** what
 
-**Mark [29:46]:** know what i could just do that
+**Candidate [29:46]:** know what i could just do that
 
-**Mark [29:47]:** hang on
+**Candidate [29:47]:** hang on
 
 **Them [31:01]:** declare those below the word private or other classes can be able to see the no i'm going to have to remove that
 
-**Mark [32:54]:** form
+**Candidate [32:54]:** form
 
-**Mark [33:03]:** actually let me make sure i got everything here
+**Candidate [33:03]:** actually let me make sure i got everything here
 
-**Mark [33:17]:** yeah
+**Candidate [33:17]:** yeah
 
-**Mark [33:17]:** okay
+**Candidate [33:17]:** okay
 
-**Mark [33:18]:** form
+**Candidate [33:18]:** form
 
-**Mark [33:20]:** where to go
+**Candidate [33:20]:** where to go
 
-**Mark [34:01]:** stat
+**Candidate [34:01]:** stat
 
-**Mark [34:01]:** us that's right
+**Candidate [34:01]:** us that's right
 
-**Mark [34:04]:** floor select
+**Candidate [34:04]:** floor select
 
-**Mark [34:39]:** my place
+**Candidate [34:39]:** my place
 
 **Them [34:51]:** and what exactly are you doing here
 
@@ -1252,103 +1252,103 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [35:34]:** title wise
 
-**Mark [35:45]:** is it
+**Candidate [35:45]:** is it
 
-**Mark [35:47]:** is that how i spelled it before
+**Candidate [35:47]:** is that how i spelled it before
 
 **Them [36:05]:** yeah i think that's right
 
 **Them [36:07]:** it's not like good english though
 
-**Mark [36:11]:** not how i'd spell it
+**Candidate [36:11]:** not how i'd spell it
 
-**Mark [36:29]:** see
+**Candidate [36:29]:** see
 
-**Mark [36:57]:** probably need to fix it in the index
+**Candidate [36:57]:** probably need to fix it in the index
 
 **Them [38:47]:** explain is your as you're doing things
 
-**Mark [38:51]:** i mean this is just replacing the hard coded thing with
+**Candidate [38:51]:** i mean this is just replacing the hard coded thing with
 
-**Mark [38:53]:** the case statement
+**Candidate [38:53]:** the case statement
 
-**Mark [38:55]:** with the helper method
+**Candidate [38:55]:** with the helper method
 
-**Mark [39:01]:** just trying to get my quotes correct
+**Candidate [39:01]:** just trying to get my quotes correct
 
-**Mark [39:15]:** probably should
+**Candidate [39:15]:** probably should
 
-**Mark [39:16]:** close
+**Candidate [39:16]:** close
 
-**Mark [39:27]:** see we need to go to task
+**Candidate [39:27]:** see we need to go to task
 
-**Mark [39:29]:** partial
+**Candidate [39:29]:** partial
 
-**Mark [39:31]:** it's also where it shows up
+**Candidate [39:31]:** it's also where it shows up
 
-**Mark [39:37]:** that's over in
+**Candidate [39:37]:** that's over in
 
-**Mark [39:41]:** task html
+**Candidate [39:41]:** task html
 
-**Mark [39:46]:** so let's kind of privy these here
+**Candidate [39:46]:** so let's kind of privy these here
 
-**Mark [39:48]:** see i got it all
+**Candidate [39:48]:** see i got it all
 
-**Mark [39:54]:** twelve twenty five so i can leave that i can leave that
+**Candidate [39:54]:** twelve twenty five so i can leave that i can leave that
 
-**Mark [39:57]:** just change the div out
+**Candidate [39:57]:** just change the div out
 
-**Mark [40:49]:** i got my
+**Candidate [40:49]:** i got my
 
-**Mark [40:49]:** quotes correct
+**Candidate [40:49]:** quotes correct
 
-**Mark [40:50]:** to make sure i'm good
+**Candidate [40:50]:** to make sure i'm good
 
-**Mark [40:53]:** that's not correct
+**Candidate [40:53]:** that's not correct
 
-**Mark [40:58]:** and that's also incorrect
+**Candidate [40:58]:** and that's also incorrect
 
-**Mark [41:07]:** that might be it
+**Candidate [41:07]:** that might be it
 
-**Mark [41:12]:** see run my test
+**Candidate [41:12]:** see run my test
 
-**Mark [41:57]:** i'm just running the test on it make sure i didn't leave any syntax errors in there
+**Candidate [41:57]:** i'm just running the test on it make sure i didn't leave any syntax errors in there
 
-**Mark [42:02]:** rerunning the docker instance
+**Candidate [42:02]:** rerunning the docker instance
 
-**Mark [42:14]:** oh it's doing the automation test now and see if it'll show you
+**Candidate [42:14]:** oh it's doing the automation test now and see if it'll show you
 
-**Mark [42:35]:** says the status badges aren't rendering
+**Candidate [42:35]:** says the status badges aren't rendering
 
-**Mark [42:56]:** sorry restarting the docker
+**Candidate [42:56]:** sorry restarting the docker
 
-**Mark [43:12]:** okay
+**Candidate [43:12]:** okay
 
-**Mark [43:13]:** here we go
+**Candidate [43:13]:** here we go
 
-**Mark [43:47]:** so
+**Candidate [43:47]:** so
 
-**Mark [43:50]:** okay it's verifying now
+**Candidate [43:50]:** okay it's verifying now
 
-**Mark [44:05]:** how it's testing too if you're interested
+**Candidate [44:05]:** how it's testing too if you're interested
 
-**Mark [44:17]:** i usually do this on two screen situation where i let cursor run the automation tests
+**Candidate [44:17]:** i usually do this on two screen situation where i let cursor run the automation tests
 
-**Mark [44:19]:** because it's easier than writing them
+**Candidate [44:19]:** because it's easier than writing them
 
-**Mark [44:24]:** it just uses a vision tool to visually inspect stuff
+**Candidate [44:24]:** it just uses a vision tool to visually inspect stuff
 
-**Mark [44:32]:** so yeah looks like it passed
+**Candidate [44:32]:** so yeah looks like it passed
 
-**Mark [44:38]:** this is the summary of the test
+**Candidate [44:38]:** this is the summary of the test
 
-**Mark [44:42]:** you're in chat
+**Candidate [44:42]:** you're in chat
 
-**Mark [44:46]:** so there was a couple of things that had to fix
+**Candidate [44:46]:** so there was a couple of things that had to fix
 
-**Mark [44:48]:** but mostly i don't know
+**Candidate [44:48]:** but mostly i don't know
 
-**Mark [44:56]:** oh now actually that didn't it was just one misplaced bracket from the previous test
+**Candidate [44:56]:** oh now actually that didn't it was just one misplaced bracket from the previous test
 
 **Them [45:02]:** we're basically at time
 
@@ -1356,19 +1356,19 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 **Them [45:09]:** go ahead
 
-**Mark [45:12]:** yeah i don't know how exciting that was to watch
+**Candidate [45:12]:** yeah i don't know how exciting that was to watch
 
-**Mark [45:16]:** i don't know if that tells you what you need to know about me
+**Candidate [45:16]:** i don't know if that tells you what you need to know about me
 
 **Them [45:21]:** a little bit
 
 **Them [45:27]:** so do you have any questions or do you want to just leave it at that
 
-**Mark [45:30]:** i mean i don't know
+**Candidate [45:30]:** i mean i don't know
 
-**Mark [45:32]:** i guess
+**Candidate [45:32]:** i guess
 
-**Mark [45:36]:** i guess i have any questions other than what we've talked about in the past couple meetings
+**Candidate [45:36]:** i guess i have any questions other than what we've talked about in the past couple meetings
 
 **Them [45:39]:** all right
 
