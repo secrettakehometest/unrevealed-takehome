@@ -6,7 +6,13 @@
 
   <div class="mb-3">
     <strong class="text-muted">Description:</strong>
-    <p class="mb-0"><%= task.description.present? ? task.description : '<em class="text-muted">No description</em>'.html_safe %></p>
+    <p class="mb-0">
+      <% if task.description.present? %>
+        <%= task.description %>
+      <% else %>
+        <em class="text-muted">No description</em>
+      <% end %>
+    </p>
   </div>
 
   <div class="mb-3">
