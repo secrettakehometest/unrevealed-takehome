@@ -1,0 +1,42 @@
+one:
+  title: "First Task"
+  description: "This is the first task description"
+  status: "pending"
+  created_at: <%= 3.days.ago %>
+  updated_at: <%= 3.days.ago %>
+
+two:
+  title: "Second Task"
+  description: "This is the second task description"
+  status: "in_progress"
+  created_at: <%= 2.days.ago %>
+  updated_at: <%= 2.days.ago %>
+
+three:
+  title: "Third Task"
+  description: "This is the third task description"
+  status: "completed"
+  created_at: <%= 1.day.ago %>
+  updated_at: <%= 1.day.ago %>
+
+four:
+  title: "Searchable Task"
+  description: "This task can be found by searching"
+  status: "pending"
+  created_at: <%= 4.days.ago %>
+  updated_at: <%= 4.days.ago %>
+
+five:
+  title: "Another Searchable"
+  description: "Another task for search testing"
+  status: "in_progress"
+  created_at: <%= 5.days.ago %>
+  updated_at: <%= 5.days.ago %>
+
+empty_description:
+  title: "Task Without Description"
+  description: ""
+  status: "pending"
+  created_at: <%= 6.days.ago %>
+  updated_at: <%= 6.days.ago %>
+

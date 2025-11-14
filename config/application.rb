@@ -12,7 +12,7 @@ require "action_controller/railtie"
 # require "action_text/engine"  # Not used - no rich text
 require "action_view/railtie"
 # require "action_cable/engine"  # Not used - no WebSockets
-# require "rails/test_unit/railtie"
+require "rails/test_unit/railtie"
 
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.

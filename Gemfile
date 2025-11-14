@@ -37,6 +37,13 @@ group :development, :test do
 
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem "rubocop-rails-omakase", require: false
+
+  # Test coverage [https://github.com/simplecov-ruby/simplecov]
+  gem "simplecov", require: false
+
+  # System tests [https://github.com/teamcapybara/capybara]
+  gem "capybara"
+  gem "selenium-webdriver"
 end
 
 group :development do
