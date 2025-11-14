@@ -8,7 +8,7 @@ services:
     volumes:
       - .:/app
       - bundle_data:/usr/local/bundle
-      - db_data:/app/db
+      # Database is persisted via bind mount (storage/ directory)
     environment:
       - RAILS_ENV=development
     # Service dependencies (uncomment when adding services like redis, postgres, etc.)
@@ -16,6 +16,12 @@ services:
     #   - redis
     #   - postgres
     restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/up"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 40s
     logging:
       driver: "json-file"
       options:
@@ -26,5 +32,5 @@ services:
 
 volumes:
   bundle_data:
-  db_data:
+  # Database is persisted via bind mount, no separate volume needed
 
