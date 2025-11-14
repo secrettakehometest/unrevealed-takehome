@@ -4,9 +4,8 @@ class TasksController < ApplicationController
 
   # GET /tasks
   def index
-    @tasks = Task.all
+    @tasks = Task.recent
     @tasks = @tasks.search_by_title(params[:search]) if params[:search].present?
-    @tasks = @tasks.recent
     @search_query = params[:search]
     @tasks_count = @tasks.count
   end
