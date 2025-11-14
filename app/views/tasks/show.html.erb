@@ -10,8 +10,8 @@
     <%= render @task %>
   </div>
   <div class="card-footer">
-    <%= button_to "Delete Task", @task, method: :delete, 
-        data: { confirm: "Are you sure you want to delete this task?" }, 
+    <%= button_to "Delete Task", @task, 
+        data: { turbo_method: :delete, turbo_confirm: "Are you sure you want to delete this task?" }, 
         class: "btn btn-danger" %>
   </div>
 </div>
