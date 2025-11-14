@@ -167,7 +167,335 @@ This document tracks the complete interview process for the Full Stack Engineer 
 **Format:** Google Meet video call  
 **Time:** 10:30am CST
 
-*[Meeting notes to be added]*
+#### Summary
+
+**Action Items:**
+- Follow up with Stephanie (expect outreach next day)
+- Prepare examples of Docker/Kubernetes deployments and Terraform usage
+- Review API design process for mobile apps (REST vs GraphQL)
+- Brush up on FedRAMP security standards and cloud database experience
+- Draft a few questions about the future front-end stack (Angular vs multi-platform)
+
+**Company & Business Unit:**
+- **Human Systems unit:** Biometrics & military personnel data
+- **Core product "Identify"** – Offline mobile app moving toward online connectivity
+- Need to integrate with various government systems and a web-based data hub
+- Goal: Transition offline app to online, add backend services, support diverse customer requirements
+
+**Current Team & Tech Stack:**
+- Android developers + one full-stack engineer
+- Backend: Ruby on Rails
+- Front-end: Angular PoC (may shift to multi-platform, reusing Android code)
+- Deployment: Docker containers on laptops for isolation; future cloud considerations
+
+**Interview Focus Areas:**
+- Experience with ATAC, COPS (resume items)
+- Docker, Kubernetes, Terraform usage and deployment targets
+- Preferred API frameworks (REST vs GraphQL) and microservice languages
+- Familiarity with Java/JVM languages
+- API design workflow for mobile app integration (requirements gathering, structuring)
+- Cloud databases worked with and security compliance (FedRAMP, agency standards)
+- LLM projects, code review practices, mentoring junior developers
+
+**Candidate Background Highlights:**
+- 9 months at current firm; previously at large tech firms, ended at Cisco after multiple acquisitions
+- Seeking startup environment, attracted to R&D challenges
+- Team operates with minimal meetings (two weekly syncs), focus on heads-down coding
+- Manages seven direct reports, now coding ~50% of time
+
+**Team Structure & Future Projects:**
+- Three product groups:
+  - **Far Side** – Software for drones (not the hardware)
+  - **C2AI** – DoD training system (AI not yet implemented)
+  - **Human Systems** – Personnel data, upcoming cloud-based hub
+- AI integration on the horizon: data ingestion, ETL from government sources, hub database needs
+- Product lead driving AI vision, resource allocation, and data pipeline development
+
+**Closing Remarks:**
+- Interviewer expressed alignment of team challenges with Mark's skill set
+- Emphasis on solving unsolved problems, rapid R&D, and upcoming product launch (target Jan)
+- Open invitation for Mark to ask questions before wrap-up
+
+#### Full Transcript
+
+<details>
+<summary>Click to expand full transcript (25+ minutes)</summary>
+
+**Them [0:30]:** Kind of just hop into it.
+
+**Them [0:32]:** Since we're a little late.
+
+**Them [0:38]:** So start with the intros, and then I'll just kind of go through some.
+
+**Them [0:42]:** Of the things on your resume and ask you a few questions.
+
+**Them [0:46]:** So. My name is Brian. I'm the lead for the business unit.
+
+**Them [0:51]:** For? It's called human systems, which is basically all our biometrics and.
+
+**Them [0:53]:** Products that deal with.
+
+**Them [1:00]:** Human data. So people, those types of things, they're biometric information, and then also.
+
+**Them [1:04]:** Different things about the people that are in the military.
+
+**Them [1:15]:** So our core product right now is Identify, which is a mobile app. It's 100% offline, but we're trying to get it into a position to where we can.
+
+**Them [1:29]:** Sell it to customers who are going to have different set of requirements, and those requirements are going to be some sort of connectivity because they'll be working in a different environment than our other customers that are buying the product.
+
+**Them [1:35]:** So that's kind of where we're trying to get to, is taking our offline product online.
+
+**Them [1:42]:** And then also building out a back end experience where it talks to different government systems. But also we have a web based hub.
+
+**Them [1:46]:** So that data is viewable.
+
+**Them [1:48]:** Outside of a mobile device.
+
+**Them [1:52]:** The team right now is.
+
+**Them [1:57]:** For Android developers myself and then one full stack engineer.
+
+**Them [2:01]:** We're ruby on rails. Back end.
+
+**Them [2:06]:** Front end. We're using Angular right now, so we're working on a PoC application.
+
+**Them [2:14]:** That may or may not get picked up as a full product, but we're kind of using that as.
+
+**Them [2:23]:** a baseline to see what did we learn what do we want to do in the future for those full on human systems hub because it's kind of a one off r and d
+
+**Them [2:26]:** project so angular may not be the front end of the future
+
+**Them [2:35]:** Could be something like composed multi platform since we already have a lot of Android code that can be reused.
+
+**Them [2:38]:** That's still kind of tbd.
+
+**Them [2:43]:** So that's kind of the current state head chief for your background.
+
+**Them [3:55]:** I see that you have.
+
+**Them [4:01]:** Like things like ATAC or cops. Messages on your resume. What have you used those for?
+
+**Them [4:23]:** Okay?
+
+**Them [4:26]:** What's your typical step look like?
+
+**Them [5:15]:** We did. Already completed.
+
+**Them [5:17]:** From django onto ruby.
+
+**Them [5:20]:** Inversion. So that's kind of where we're at.
+
+**Them [5:24]:** So can you kind of explain to me?
+
+**Them [5:25]:** Then.
+
+**Them [5:29]:** So what is the ksr social do?
+
+**Them [7:14]:** I think.
+
+**Them [7:19]:** That section on your resume is probably the one that's kind of messed up because.
+
+**Them [7:23]:** It's talking a lot about.
+
+**Them [7:25]:** Act servers.
+
+**Them [7:29]:** So can you talk a little about.
+
+**Them [7:33]:** Your experience with Docker and Kubernetes and how you use that.
+
+**Them [8:36]:** Where were you deploying it?
+
+**Them [8:36]:** To.
+
+**Them [9:01]:** Okay?
+
+**Them [9:03]:** Terraform at all.
+
+**Them [9:14]:** So.
+
+**Them [9:20]:** Kind of API frameworks do you like to use? Rests or graphql.
+
+**Them [9:56]:** What languages were you writing the microservices in?
+
+**Them [10:27]:** Are you familiar with Java and JVM based languages?
+
+**Them [10:42]:** So what's your thought process when you have to design an API?
+
+**Them [10:51]:** Or set up APIs specifically for us, the mobile app is going to have to have APIs designed for it.
+
+**Them [10:57]:** How would you structure those? Go about getting the requirements, that kind of thing?
+
+**Them [13:00]:** Which cloud databases have you worked with? And then also.
+
+**Them [13:04]:** Work kind of security standards.
+
+**Them [13:08]:** Have you encountered in the past that you've had to fedramp type of things?
+
+**Them [13:10]:** To overcome.
+
+**Them [15:09]:** With some of their systems and other agency systems.
+
+**Them [15:12]:** Or is it all kind of isolated?
+
+**Them [15:41]:** Okay?
+
+**Them [15:49]:** Sounds like you have a lot of experience with LLMs.
+
+**Them [16:11]:** And then.
+
+**Them [16:15]:** How do you handle code reviews and mentoring more junior developers?
+
+**Them [17:45]:** So what's kind of attracting you to reveal.
+
+**Them [17:48]:** What are you kind of looking for in your next position?
+
+**Them [18:18]:** Okay?
+
+**Them [18:21]:** Yeah.
+
+**Them [18:28]:** So a little bit about that is so like our team. There's three real teams at this point.
+
+**Them [18:33]:** It's a far side product, which is the drones.
+
+**Them [18:36]:** Mostly what that is is.
+
+**Them [18:40]:** It's software that goes onto drones, so it's not the actual drone.
+
+**Them [18:42]:** And then.
+
+**Them [18:44]:** There's another group.
+
+**Them [18:50]:** They're called C2AI, but they're not doing any AI quite yet. What they're doing.
+
+**Them [18:58]:** Is kind of similar in a way to what our team's doing. It's building an application that's going to replace something.
+
+**Them [19:04]:** I think it's mostly DoD based, but it's going to replace some sort of training system.
+
+**Them [19:12]:** And then what our team is doing is, like I mentioned, all the human based products are on the personnel.
+
+**Them [19:15]:** And we're also building a cloud based.
+
+**Them [19:20]:** Cloud based product. We can't say it's really going to be cloud based.
+
+**Them [19:25]:** Because most that we're doing now is just installing Docker containers on laptops because it needs to be isolated.
+
+**Them [19:33]:** So AI room for growth is.
+
+**Them [19:45]:** I guess you can't know what the titles here kind of messed up. But again, I call them our product lead. The person who's kind of like the ideas guy, wants to get some AI involved.
+
+**Them [19:52]:** Where are people? How do we move resources? All those types of things that's all kind of like on the horizon.
+
+**Them [20:04]:** But in order to get there, we have to first get the data, which requires that we have product built that's installed and then have them basically enter data, or we suck it in through some other mechanism.
+
+**Them [20:06]:** Which is kind of why I was asked in a.
+
+**Them [20:10]:** Few connected to government systems before is I feel like.
+
+**Them [20:22]:** That's probably going to be something we're going to do in the near future, is get access to whatever their product is now and then start some sort of ETL process to get that into format that we consume.
+
+**Them [20:24]:** Because we already kind of have that.
+
+**Them [20:32]:** Mobile. We'll need that for our hub database as well.
+
+**Them [20:34]:** So yeah.
+
+**Them [20:39]:** We got about 5ish minutes left, so if you want to ask some questions, feel free.
+
+**Them [20:45]:** Yeah.
+
+**Them [20:47]:** I've been here.
+
+**Them [20:49]:** For almost nine months now.
+
+**Them [20:54]:** My background is from big tech companies.
+
+**Them [20:58]:** So it's quite a bit different than that, but I wanted to get back into a startup.
+
+**Them [21:02]:** So startup I was at went through a series of acquisitions.
+
+**Them [21:07]:** Wound up at Cisco, which is massive.
+
+**Them [21:14]:** So I was just kind of done with that. So I made it through multiple runs of acquisitions, and I was like, I need to go to it again.
+
+**Them [21:16]:** That's kind of how I wound up here.
+
+**Them [21:53]:** It's kind of.
+
+**Them [22:04]:** The guiding principles of this company is that they purge the calendars quite often.
+
+**Them [22:11]:** So really, there's two meetings, the two standing meetings that you would be in.
+
+**Them [22:12]:** That's it for the week.
+
+**Them [22:15]:** The rest of it. Heads down. Coding.
+
+**Them [22:17]:** Solving problems.
+
+**Them [22:22]:** Kind of the brunt of the meeting.
+
+**Them [22:32]:** Fall on me, kind of interacting with the different people, and then we can kind of translate as a group and the two sync meetings we have, but then the rest of it is just.
+
+**Them [22:34]:** Getting things done.
+
+**Them [22:36]:** Which is kind of.
+
+**Them [22:36]:** Nice.
+
+**Them [23:31]:** Switches and stuff like that.
+
+**Them [23:34]:** Even me.
+
+**Them [23:36]:** I have seven direct reports.
+
+**Them [23:40]:** Still don't have near as many meetings as I had.
+
+**Them [23:41]:** At big companies.
+
+**Them [23:43]:** I didn't do really any coding.
+
+**Them [23:46]:** Now I do at least about half time coding.
+
+**Them [23:47]:** Which is nice.
+
+**Them [24:06]:** Probably. I think the direction that our team is going sounds like it might be right up your alley.
+
+**Them [24:09]:** Some problems we're trying to solve.
+
+**Them [24:12]:** Are ones that have not been solved yet.
+
+**Them [24:18]:** So that's always an interesting problem to work on.
+
+**Them [24:22]:** It's kind of cool to do the R and D stuff because.
+
+**Them [24:26]:** We get to. Basically, we're making our mistakes without having anyone to really.
+
+**Them [24:37]:** Please. We get to make these mistakes, but then we know that those mistakes will inform how we build the true product that we're going to start building here in.
+
+**Them [24:39]:** The next. Probably January sometime.
+
+**Them [24:45]:** All right.
+
+**Them [25:02]:** That is another cool project. We.
+
+**Them [25:07]:** Might spend a lot of talk about in the news of autonomous vehicles and things like that.
+
+**Them [25:10]:** And having biometrics.
+
+**Them [25:14]:** On things like that so that it can send out a drawer and figure out who are these people.
+
+**Them [25:15]:** That are in this area.
+
+**Them [25:19]:** Holding a lot of stuff we can do.
+
+**Them [25:28]:** I will let you go. I guess kind of. The next steps, though, is I've talked to Stephanie, and then.
+
+**Them [25:30]:** She will reach out the next day or so.
+
+**Them [25:31]:** Next steps.
+
+**Them [25:34]:** Nice to meet you.
+
+</details>
 
 ### Stage 2: Technical Take-Home Assessment (November 7, 2025) {#stage-2-technical-take-home-assessment-november-7-2025}
 **Assigned:** November 6, 2025  
