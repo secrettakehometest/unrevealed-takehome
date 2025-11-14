@@ -1,5 +1,6 @@
 class TasksController < ApplicationController
   before_action :set_task, only: [:show, :edit, :update, :destroy]
+  rescue_from ActiveRecord::RecordNotFound, with: :record_not_found
 
   # GET /tasks
   def index
@@ -58,6 +59,11 @@ class TasksController < ApplicationController
     # Only allow a list of trusted parameters through.
     def task_params
       params.require(:task).permit(:title, :description, :status)
+    end
+
+    # Handle RecordNotFound exceptions
+    def record_not_found
+      redirect_to tasks_path, alert: "Task not found."
     end
 end
 
