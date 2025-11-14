@@ -21,7 +21,7 @@
 
 <% if @search_query.present? %>
   <div class="alert alert-info">
-    <strong><%= @tasks_count %></strong> task<%= @tasks_count != 1 ? 's' : '' %> found<% if @tasks_count > 0 %> for "<%= @search_query %>"<% end %>
+            <strong><%= @tasks_count %></strong> task<%= @tasks_count != 1 ? 's' : '' %> found<% if @tasks_count > 0 %> for "<%= h(@search_query) %>"<% end %>
   </div>
 <% end %>
 
