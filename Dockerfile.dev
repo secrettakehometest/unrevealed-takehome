@@ -18,14 +18,14 @@ WORKDIR /app
 RUN groupadd --system --gid 1000 rails && \
     useradd rails --uid 1000 --gid 1000 --create-home --shell /bin/bash
 
-# Install gems
+# Install gems (optimized for build cache: Gemfile changes less frequently than app code)
 COPY Gemfile Gemfile.lock ./
 RUN bundle install
 
-# Copy application code
+# Copy application code (changes frequently, so placed after gem installation)
 COPY . .
 
-# Set ownership of application directory
+# Set ownership of application directory (after all copies to avoid cache invalidation)
 RUN chown -R rails:rails /app
 
 # Switch to non-root user
