@@ -2,28 +2,43 @@
 
 This document tracks the complete interview process for the Full Stack Engineer position at TechCorp.
 
+## Table of Contents
+
+- [Timeline Overview](#timeline-overview)
+- [Application & Correspondence](#application--correspondence)
+  - [Initial Application](#initial-application)
+  - [Interview Scheduling](#interview-scheduling-november-4-6-2025)
+  - [Technical Take-Home Assignment](#technical-take-home-assignment-november-6-7-2025)
+  - [Technical Review Scheduling](#technical-review-scheduling-november-7-12-2025)
+  - [Final Outcome](#final-outcome-november-14-2025)
+- [Interview Stages](#interview-stages)
+  - [Stage 1: Initial Interview](#stage-1-initial-interview-november-6-2025)
+  - [Stage 2: Technical Take-Home Assessment](#stage-2-technical-take-home-assessment-november-7-2025)
+  - [Stage 3: Technical Review](#stage-3-technical-review-november-12-2025)
+  - [Stage 4: Live Code Review](#stage-4-live-code-review-november-13-2025)
+
 ## Timeline Overview
 
-- **July 11, 2025**: Initial application submitted
-- **August 7, 2025**: Application acknowledgment
-- **October 19, 2025**: Thank you for application email
-- **November 4, 2025**: Interview invitation
-- **November 6, 2025**: Initial interview with Interviewer A (Lead Android Developer)
-- **November 7, 2025**: Technical take-home assessment assigned
-- **November 7, 2025**: Repository shared (GitHub: candidate-username/task-manager-takehome)
-- **November 10-12, 2025**: Technical review scheduling
-- **November 12, 2025**: Technical review meeting with Interviewer A and Interviewer B
-- **November 13, 2025**: Live code review session (~45 minutes)
-- **November 14, 2025**: Rejection notification
+- **July 11, 2025**: [Initial application submitted](#initial-application)
+- **August 7, 2025**: [Application acknowledgment](#initial-application)
+- **October 19, 2025**: [Thank you for application email](#initial-application)
+- **November 4, 2025**: [Interview invitation](#interview-scheduling-november-4-6-2025)
+- **November 6, 2025**: [Initial interview](#stage-1-initial-interview-november-6-2025) with Interviewer A (Lead Android Developer)
+- **November 7, 2025**: [Technical take-home assessment assigned](#technical-take-home-assignment-november-6-7-2025)
+- **November 7, 2025**: [Repository shared](#technical-take-home-assignment-november-6-7-2025) (GitHub: candidate-username/task-manager-takehome)
+- **November 10-12, 2025**: [Technical review scheduling](#technical-review-scheduling-november-7-12-2025)
+- **November 12, 2025**: [Technical review meeting](#stage-3-technical-review-november-12-2025) with Interviewer A and Interviewer B
+- **November 13, 2025**: [Live code review session](#stage-4-live-code-review-november-13-2025) (~45 minutes)
+- **November 14, 2025**: [Rejection notification](#final-outcome-november-14-2025)
 
 ## Application & Correspondence
 
-### Initial Application
+### Initial Application {#initial-application}
 - **July 11, 2025**: Application submitted via Wellfound
 - **August 7, 2025**: Application acknowledgment email from TechCorp
 - **October 19, 2025**: Thank you for application email
 
-### Interview Scheduling (November 4-6, 2025)
+### Interview Scheduling (November 4-6, 2025) {#interview-scheduling-november-4-6-2025}
 
 **November 4, 2025 - Stephanie to Mark:**
 > Hi Mark,
@@ -38,7 +53,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 **November 4, 2025 - Mark to Stephanie:**
 > Thank you, looking forward to it.
 
-### Technical Take-Home Assignment (November 6-7, 2025)
+### Technical Take-Home Assignment (November 6-7, 2025) {#technical-take-home-assignment-november-6-7-2025}
 
 **November 6, 2025 - Stephanie to Mark:**
 > Hi Mark,
@@ -58,7 +73,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 **November 7, 2025 - Stephanie to Mark:**
 > Thank you! You can add interviewer-a & interviewer-b as the usernames. What is your availability next week for a review with Brian and Kyle?
 
-### Technical Review Scheduling (November 7-12, 2025)
+### Technical Review Scheduling (November 7-12, 2025) {#technical-review-scheduling-november-7-12-2025}
 
 **November 9, 2025 - Mark to Stephanie:**
 > Hi Stephanie.
@@ -117,7 +132,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 > Regards,
 > Candidate
 
-### Final Outcome (November 14, 2025)
+### Final Outcome (November 14, 2025) {#final-outcome-november-14-2025}
 
 **November 14, 2025 - Stephanie to Mark:**
 > Hi Mark,
@@ -146,7 +161,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 ## Interview Stages
 
-### Stage 1: Initial Interview (November 6, 2025)
+### Stage 1: Initial Interview (November 6, 2025) {#stage-1-initial-interview-november-6-2025}
 **Interviewer:** Interviewer A, Lead Android Developer  
 **Duration:** 30 minutes  
 **Format:** Google Meet video call  
@@ -154,7 +169,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 *[Meeting notes to be added]*
 
-### Stage 2: Technical Take-Home Assessment (November 7, 2025)
+### Stage 2: Technical Take-Home Assessment (November 7, 2025) {#stage-2-technical-take-home-assessment-november-7-2025}
 **Assigned:** November 6, 2025  
 **Completed:** November 7, 2025  
 **Repository:** https://github.com/candidate-username/task-manager-takehome  
@@ -167,7 +182,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 - Clear README with setup instructions
 - Minimal local setup required
 
-### Stage 3: Technical Review (November 12, 2025)
+### Stage 3: Technical Review (November 12, 2025) {#stage-3-technical-review-november-12-2025}
 **Interviewers:** Interviewer A (Lead Android Developer) and Interviewer B (Full Stack Engineer)  
 **Duration:** 30 minutes  
 **Format:** Google Meet video call  
@@ -175,7 +190,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 *[Meeting notes to be added]*
 
-### Stage 4: Live Code Review (November 13, 2025)
+### Stage 4: Live Code Review (November 13, 2025) {#stage-4-live-code-review-november-13-2025}
 **Duration:** ~45 minutes  
 **Format:** Live coding session  
 **Work Completed:**
