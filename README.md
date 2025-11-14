@@ -103,6 +103,7 @@ For detailed information about:
 - **Visual application walkthrough with screenshots** → See [`docs/walkthrough.md`](docs/walkthrough.md)
 - **Project planning and architecture decisions** → See [`docs/project-plan.md`](docs/project-plan.md)
 - **Implementation timeline and deep-dive notes** → See [`docs/deep-dive.md`](docs/deep-dive.md)
+- **Interview process and correspondence** → See [`docs/interview-process.md`](docs/interview-process.md)
 
 ## Testing
 
@@ -174,23 +175,9 @@ docker-compose exec web rails test:system
 - **Efficient Queries** - Optimized query chaining
 - **Input Limits** - Search query length limits to prevent DoS
 
-## Development Time
+## Job Interview Notes
 
-Time spent on this project as measured by git commits:
-
-- **Initial Project Phase** (Nov 7, 2025): **~42 minutes**
-  - Project setup, scaffolding, backend/frontend implementation, documentation
-  
-- **First Issues Session** (Nov 13, 2025): **~1 hour 1 minute**
-  - Fixed 15 codebase issues (security, performance, testing, database, configuration)
-  - Achieved 100% test coverage
-  
-- **Second Issues Session** (Nov 13, 2025): **~10 minutes**
-  - Fixed 16 Docker configuration issues (security, performance, best practices)
-  
-- **Total Development Time**: **~1 hour 53 minutes**
-
-## Assessment Instructions
+### Initial Assessment
 
 This project was built for a **Technical Assessment (45 minutes)** with the following requirements:
 
@@ -208,6 +195,29 @@ The goal was to evaluate:
    - Run the frontend application
    - Any setup or configuration needed
 3. Ensure the app can be run locally with minimal setup
+
+### Development Time
+
+Time spent on this project as measured by git commits:
+
+#### Initial Project Phase (Nov 7, 2025): ~42 minutes
+- Project setup, scaffolding, backend/frontend implementation, documentation
+
+#### First Issues Session (Nov 13, 2025): ~1 hour 1 minute
+- Fixed 15 codebase issues (security, performance, testing, database, configuration)
+- Achieved 100% test coverage
+
+#### Second Issues Session (Nov 13, 2025): ~10 minutes
+- Fixed 16 Docker configuration issues (security, performance, best practices)
+
+#### Live Code Review (Nov 13, 2025): ~45 minutes
+- Code review and refactoring session
+- Refactored Task model to implement status as an enum
+- Commit: `dbf4bff33f224675b2f3c952b1ed7bb79c748d69` - "Refactor Task model and views to implement status as an enum"
+
+**Total Development Time**: ~2 hours 38 minutes
+
+For detailed interview process documentation, see [`docs/interview-process.md`](docs/interview-process.md).
 
 ## Notes
 
