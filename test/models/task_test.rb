@@ -13,6 +13,33 @@ class TaskTest < ActiveSupport::TestCase
     assert task.valid?
   end
 
+  test "should reject title longer than 255 characters" do
+    task = Task.new(title: "a" * 256, description: "Some description")
+    assert_not task.valid?
+    assert_includes task.errors[:title], "is too long (maximum is 255 characters)"
+  end
+
+  test "should accept title with exactly 255 characters" do
+    task = Task.new(title: "a" * 255, description: "Some description")
+    assert task.valid?
+  end
+
+  test "should reject description longer than 10000 characters" do
+    task = Task.new(title: "Valid Task", description: "a" * 10_001)
+    assert_not task.valid?
+    assert_includes task.errors[:description], "is too long (maximum is 10000 characters)"
+  end
+
+  test "should accept description with exactly 10000 characters" do
+    task = Task.new(title: "Valid Task", description: "a" * 10_000)
+    assert task.valid?
+  end
+
+  test "should accept empty description" do
+    task = Task.new(title: "Valid Task", description: "")
+    assert task.valid?
+  end
+
   # Test enum
   test "should accept valid status values" do
     task = Task.new(title: "Test Task")

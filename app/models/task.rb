@@ -1,6 +1,7 @@
 class Task < ApplicationRecord
   # Validations
-  validates :title, presence: true
+  validates :title, presence: true, length: { minimum: 1, maximum: 255 }
+  validates :description, length: { maximum: 10_000 }, allow_blank: true
   
   # Enum for status (replaces the inclusion validation)
   # Hash syntax required to store string values in string column (not integers)
