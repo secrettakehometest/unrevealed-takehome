@@ -31,6 +31,9 @@
 /tmp/storage/*
 !/tmp/storage/.keep
 
+# Ignore test database files (parallel test execution artifacts)
+**/*.sqlite3-*
+
 # Ignore assets.
 /node_modules/
 /app/assets/builds/*
