@@ -15,7 +15,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
   - [Stage 1: Initial Interview](#stage-1-initial-interview-november-6-2025)
   - [Stage 2: Technical Take-Home Assessment](#stage-2-technical-take-home-assessment-november-7-2025)
   - [Stage 3: Technical Review](#stage-3-technical-review-november-12-2025)
-  - [Stage 4: Live Code Review](#stage-4-live-code-review-november-13-2025)
+  - [Stage 4: Live Code Review](#stage-4-live-code-review-november-12-2025)
 
 ## Timeline Overview
 
@@ -28,7 +28,7 @@ This document tracks the complete interview process for the Full Stack Engineer 
 - **November 7, 2025**: [Repository shared](#technical-take-home-assignment-november-6-7-2025) (GitHub: candidate-username/task-manager-takehome)
 - **November 10-12, 2025**: [Technical review scheduling](#technical-review-scheduling-november-7-12-2025)
 - **November 12, 2025**: [Technical review meeting](#stage-3-technical-review-november-12-2025) with Interviewer A and Interviewer B
-- **November 13, 2025**: [Live code review session](#stage-4-live-code-review-november-13-2025) (~45 minutes)
+- **November 12, 2025**: [Live code review session](#stage-4-live-code-review-november-12-2025) (~45 minutes, during technical review)
 - **November 14, 2025**: [Rejection notification](#final-outcome-november-14-2025)
 
 ## Application & Correspondence
@@ -1386,13 +1386,13 @@ This document tracks the complete interview process for the Full Stack Engineer 
 
 </details>
 
-### Stage 4: Live Code Review (November 13, 2025) {#stage-4-live-code-review-november-13-2025}
-**Duration:** ~45 minutes  
-**Format:** Live coding session  
+### Stage 4: Live Code Review (November 12, 2025) {#stage-4-live-code-review-november-12-2025}
+**Duration:** ~45 minutes (part of [Technical Review](#stage-3-technical-review-november-12-2025) session)  
+**Format:** Live coding session during technical review  
 **Work Completed:**
 - Refactored Task model to implement status as an enum
 - Updated views to utilize new enum helper methods
-- Commit: `dbf4bff33f224675b2f3c952b1ed7bb79c748d69`
+- Commit: `dbf4bff33f224675b2f3c952b1ed7bb79c748d69` (committed Nov 13, 2025)
 
 *[Meeting notes to be added]*
 

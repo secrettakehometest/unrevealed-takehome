@@ -210,10 +210,10 @@ Time spent on this project as measured by git commits:
 #### Second Issues Session (Nov 13, 2025): ~10 minutes
 - Fixed 16 Docker configuration issues (security, performance, best practices)
 
-#### Live Code Review (Nov 13, 2025): ~45 minutes
-- Code review and refactoring session
+#### Live Code Review (Nov 12, 2025): ~45 minutes
+- Code review and refactoring session (during technical review)
 - Refactored Task model to implement status as an enum
-- Commit: `dbf4bff33f224675b2f3c952b1ed7bb79c748d69` - "Refactor Task model and views to implement status as an enum"
+- Commit: `dbf4bff33f224675b2f3c952b1ed7bb79c748d69` - "Refactor Task model and views to implement status as an enum" (committed Nov 13, 2025)
 
 **Total Development Time**: ~2 hours 38 minutes
 
