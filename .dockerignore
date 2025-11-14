@@ -43,6 +43,9 @@
 # Ignore development files
 /.devcontainer
 
+# Ignore test coverage
+/coverage/
+
 # Ignore Docker-related files
 /.dockerignore
 /Dockerfile
