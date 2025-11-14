@@ -339,14 +339,15 @@ end
 - Sufficient for assessment requirements
 - Can scale to multi-container if needed
 
-### 5. Server-Side Search
-**Decision:** Implement search on backend, not frontend  
-**Rationale:**
+### 5. Server-Side Search with Pagination
+**Decision:** Implement search on backend with pagination  
+**Rationale:** 
 - No JavaScript required
 - Works everywhere (accessibility)
 - Consistent with Rails conventions
 - Simple SQL LIKE query sufficient for MVP
-- Can optimize with full-text search later if needed
+- **Updated:** Now includes pagination (25 per page) and input sanitization
+- **Updated:** Search queries are sanitized and length-limited for security
 
 ### 6. Status as String Field with Enum
 **Decision:** Use string field with Rails enum  
