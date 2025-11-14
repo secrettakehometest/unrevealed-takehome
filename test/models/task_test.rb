@@ -101,14 +101,26 @@ class TaskTest < ActiveSupport::TestCase
     assert results.any? { |t| t.title.include?("Searchable") }
   end
 
-  test "search_by_title scope should return empty when query is blank" do
+  test "search_by_title scope should return none when query is blank" do
     results = Task.search_by_title("")
-    assert_equal Task.count, results.count
+    assert_equal 0, results.count
   end
 
-  test "search_by_title scope should return empty when query is nil" do
+  test "search_by_title scope should return none when query is nil" do
     results = Task.search_by_title(nil)
-    assert_equal Task.count, results.count
+    assert_equal 0, results.count
+  end
+
+  test "search_by_title scope should trim whitespace" do
+    task = Task.create!(title: "Test Task", status: "pending")
+    results = Task.search_by_title("  test  ")
+    assert results.include?(task)
+  end
+
+  test "search_by_title scope should reject queries longer than 255 characters" do
+    long_query = "a" * 256
+    results = Task.search_by_title(long_query)
+    assert_equal 0, results.count
   end
 
   # Test helper methods

@@ -13,7 +13,12 @@ class Task < ApplicationRecord
   # Scopes for query organization
   scope :recent, -> { order(created_at: :desc) }
   scope :by_status, ->(status) { where(status: status) if status.present? }
-  scope :search_by_title, ->(query) { where("LOWER(title) LIKE ?", "%#{query.downcase}%") if query.present? }
+  scope :search_by_title, ->(query) {
+    return none unless query.present?
+    sanitized = query.to_s.strip.downcase
+    return none if sanitized.length > 255  # Prevent DoS, match title max length
+    where("LOWER(title) LIKE ?", "%#{sanitized}%")
+  }
   
   # Helper method for badge CSS classes
   def status_badge_class
