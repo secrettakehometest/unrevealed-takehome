@@ -190,6 +190,25 @@ Time spent on this project as measured by git commits:
   
 - **Total Development Time**: **~1 hour 53 minutes**
 
+## Assessment Instructions
+
+This project was built for a **Technical Assessment (45 minutes)** with the following requirements:
+
+**Build a small full-stack application that allows users to create, view, update, delete, and search tasks (or notes/tickets). Think of it as a lightweight "Task Manager".**
+
+The goal was to evaluate:
+- Ability to design, implement, and integrate both frontend and backend components
+- Code quality, documentation, and project structure
+- Containerized deployment using Docker
+
+**Submission Requirements:**
+1. Create a GitHub repository for your project
+2. Include all source code and a clear README explaining how to:
+   - Run the backend API
+   - Run the frontend application
+   - Any setup or configuration needed
+3. Ensure the app can be run locally with minimal setup
+
 ## Notes
 
 This project was built as a takehome assessment. All core requirements have been implemented and enhanced:
