@@ -17,6 +17,7 @@
 
 # Ignore all logfiles and tempfiles.
 /log/*
+*.log
 /tmp/*
 !/log/.keep
 !/tmp/.keep
@@ -30,6 +31,9 @@
 !/storage/.keep
 /tmp/storage/*
 !/tmp/storage/.keep
+
+# Ignore all SQLite database files
+*.sqlite3
 
 # Ignore test database files (parallel test execution artifacts)
 **/*.sqlite3-*
