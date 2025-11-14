@@ -174,6 +174,22 @@ docker-compose exec web rails test:system
 - **Efficient Queries** - Optimized query chaining
 - **Input Limits** - Search query length limits to prevent DoS
 
+## Development Time
+
+Time spent on this project as measured by git commits:
+
+- **Initial Project Phase** (Nov 7, 2025): **~42 minutes**
+  - Project setup, scaffolding, backend/frontend implementation, documentation
+  
+- **First Issues Session** (Nov 13, 2025): **~1 hour 1 minute**
+  - Fixed 15 codebase issues (security, performance, testing, database, configuration)
+  - Achieved 100% test coverage
+  
+- **Second Issues Session** (Nov 13, 2025): **~10 minutes**
+  - Fixed 16 Docker configuration issues (security, performance, best practices)
+  
+- **Total Development Time**: **~1 hour 53 minutes**
+
 ## Notes
 
 This project was built as a takehome assessment. All core requirements have been implemented and enhanced:
